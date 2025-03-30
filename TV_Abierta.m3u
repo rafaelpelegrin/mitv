@@ -1,0 +1,7 @@
+#EXTM3U
+EXTINF:0 tvg-id=»» tvg-logo=»http://imgfz.com/i/0VDhgqO.jpeg» group-title=»RD»,Teleantillas
+https://live-c2.cf.dmcdn.net/sec2(wIobnroqHTYgjd-Bn34qGzUioQCaAgwJ4xuyNzTkqS4-IQjrtK-Hl7gOO0q-6uJXnNsY4QhoNc4HzUzo4fmNKMlTnVzKikxWiAcluL4QCovZVkPvTn1RwinzOeJuunhb)/cloud/3/x8mwmvs/s/live-480.m3u8#cell=lcfc2
+EXTINF:0 tvg-id=»» tvg-logo=»http://imgfz.com/i/0VDhgqO.jpeg» group-title=»RD»,RDTV
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w664264537_b3747840.m3u8
+EXTINF:0 tvg-id=»» tvg-logo=»http://imgfz.com/i/0VDhgqO.jpeg» group-title=»RD»,Telemicro
+https://live-ak.vimeocdn.com/exp=1743353582~acl=%2F4c3ac976-939a-492f-9d25-06343f45aa79%2F%2A~hmac=60acf316ec95326337d516f4f234412dd65365fa24b5cb576b3cd6c08583162d/4c3ac976-939a-492f-9d25-06343f45aa79/chunklist_b3256000.m3u8?max_segments=10&_HLS_skip=YES
