@@ -8,7 +8,7 @@ https://f.gmsiptv.com/memfs/b0b45b0e-46de-4069-881f-50b6ab46b473.m3u8
 #EXTINF:-1 group-title="RD" tvg-logo="https://i.imgur.com/gLYPLI4.png" tvg-id="0004",RD RTVD
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jgwi3fP.png" group-title="RD" tvg-id="0005",RD Telemicro
-https://f.gmsiptv.com/memfs/5604a02b-a682-4561-a4c2-842948cced7e.m3u8
+https://live-ak.vimeocdn.com/exp=1743610089~acl=%2F4c3ac976-939a-492f-9d25-06343f45aa79%2F%2A~hmac=caae7fb988e2926fe1338aaaef59a4a7e5ef515186544089aa70bb8f8e0c7395/4c3ac976-939a-492f-9d25-06343f45aa79/chunklist_b3256000.m3u8?max_segments=10&_HLS_skip=YES
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gJ2myKE.png" group-title="RD" tvg-id="0006",RD Urbancrist2
 https://ssh101-fl.bozztv.com/ssh101/urbancrist2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ecrwWe2.png" group-title="RD" tvg-id="0007",RD Antena7
