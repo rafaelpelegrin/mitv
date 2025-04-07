@@ -7,8 +7,8 @@ https://host.streamingnation.live/p/3780/live/tvluzlive.m3u8
 https://f.gmsiptv.com/memfs/b0b45b0e-46de-4069-881f-50b6ab46b473.m3u8
 #EXTINF:-1 group-title="RD" tvg-logo="https://i.imgur.com/gLYPLI4.png" tvg-id="0004",RD RTVD
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8?DVR
---#EXTINF:-1 tvg-logo="https://i.imgur.com/Jgwi3fP.png" group-title="RD" tvg-id="0005",RD Telemicro
---<iframe width="1296" height="729" src="https://www.youtube.com/embed/iBI02KPowtk" title="EN VIVO: LA OPCIÓN DE LA TARDE - INDEPENDENCIA 93.3 FM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jgwi3fP.png" group-title="RD" tvg-id="0005",RD Telemicro
+https://live-api.vimeocdn.com/sessions/4c3ac976-939a-492f-9d25-06343f45aa79/playlist/hls.m3u8?cdn=akamai&json=1&~exp=1744059600&~id=player&~sig=zO8vfOKn12m7rqYT9j-JieS1xg-8nMSjkP40q1zQkOw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gJ2myKE.png" group-title="RD" tvg-id="0006",RD Urbancrist2
 https://ssh101-fl.bozztv.com/ssh101/urbancrist2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ecrwWe2.png" group-title="RD" tvg-id="0007",RD Antena7
