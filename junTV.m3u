@@ -10,7 +10,7 @@ https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8?D
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jgwi3fP.png" group-title="RD" tvg-id="0005",RD Telemicro
 https://live-api.vimeocdn.com/sessions/4c3ac976-939a-492f-9d25-06343f45aa79/playlist/hls.m3u8?cdn=akamai&json=1&~exp=1744059600&~id=player&~sig=zO8vfOKn12m7rqYT9j-JieS1xg-8nMSjkP40q1zQkOw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gJ2myKE.png" group-title="RD" tvg-id="0006",RD Urbancrist2
-https://ssh101-fl.bozztv.com/ssh101/urbancrist2/playlist.m3u8
+https://ssh101-fl.bozztv.com/ssh101/urbancrist/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ecrwWe2.png" group-title="RD" tvg-id="0007",RD Antena7
 https://d3mhrz6vhsrmmq.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cnVYbvw.png" group-title="RD" tvg-id="0008",RD Bellavision
@@ -52,11 +52,11 @@ https://live.obslivestream.com/makaomux/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mSx4Eee.png" group-title="RD" tvg-id="0027",RD RNN
 https://ss2.domint.net:3202/rnn_str/canal27/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SEG7UQj.png" group-title="RD" tvg-id="0028",RD Vegateve
-https://kali.vdopanel.com:3396/live/arseniolive.m3u8
+https://cloud6.livescast.com:3797/live/vegatevelive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/66iEHbo.png" group-title="RD" tvg-id="0029",RD Teleuniverso
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/88GV4Hl.png" group-title="RD" tvg-id="0030",RD Televida
-https://f.gmsiptv.com/memfs/f0e6772a-6e9c-4e76-8104-e7140b33011f.m3u8
+https://vdo1.streamgato.us:3035/live/televidalive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qhvkb40.png" group-title="RD" tvg-id="0031",RD entelevision
 https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dMpJ0GH.png" group-title="RD" tvg-id="0032",RD VTV
@@ -70,7 +70,7 @@ https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b0C3skh.png group-title="RD" tvg-id="0036",RD CV Visión
 https://eu1.servers10.com:8081/8128/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NWVW9QV.png" group-title="RD" tvg-id="0037",RD CDN37
-https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/ae3e71b4-52af-d834-7388-fc75f9401a03.m3u8
+https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/7ed9a111-1110-47df-3bd8-85a9e0a15e3c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xkzbit6.png" group-title="RD" tvg-id="0038",RD Acento
 https://f.gmsiptv.com/memfs/9c01095f-82c5-42e7-bd33-7b2e88860fb0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vshjA7l.png" group-title="RD" tvg-id="0039",RD Coral
