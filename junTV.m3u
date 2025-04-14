@@ -1,4 +1,4 @@
-#EXTM3U
+F#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T1d9Dqc.png" group-title="RD" tvg-id="0001",Bloomberg
 https://bloomberg-bloomberg-5-mx.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/edgMWBG.png" group-title="RD" tvg-id="0002",RD TV Luz
@@ -432,7 +432,7 @@ https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/edOXXr0.png" group-title="DEPORTES" tvg-id="224",CDN Deportes
-http://51.81.106.147:5080/LiveApp/streams/cdnsport.m3u8
+https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/bc949011-1dd8-4d10-596c-f6910d4a9cf7.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3DVhz75.png" group-title="DEPORTES" tvg-id="254",Adventure Sports TV
 https://d3rl6ns7c3ilda.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-AdventureSportsTV/438.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gNJA0XI.jpeg" group-title="DEPORTES" tvg-id="258",ITV Deportes
