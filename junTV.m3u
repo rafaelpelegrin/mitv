@@ -341,7 +341,7 @@ https://cm.hostlagarto.com:4445/rdn/rdn.myStream/playlist.m3u8
 https://5790d294af2dc.streamlock.net/exitosatv/exitosatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bdovihp.jpeg" group-title="RD" tvg-id="168",TV Avivamiento
 https://glb.bozztv.com/glb/ssh101/avivamientotv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bdovihp.jpeg" group-title="RD" tvg-id="169",Teleradio America
+#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="169",Teleradio America
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/rctvhdtra/chunks.m3u8
 
 
