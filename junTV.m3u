@@ -89,8 +89,8 @@ https://server2grupocam.com/megavision/MV/playlist.m3u8
 https://glb.bozztv.com/glb/ssh101/0045/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3qsvkZD.png" group-title="RD" tvg-id="0046",RD BajoTecho
 https://rdn.essastream.com:3042/live/bajotechotvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gcCgepM.png" group-title="RD" tvg-id="0047",RD SiTV
-http://51.81.93.239:8084/hls/sitv2.m3u8
+--#EXTINF:-1 tvg-logo="https://i.imgur.com/gcCgepM.png" group-title="RD" tvg-id="0047",RD SiTV
+--http://51.81.93.239:8084/hls/sitv2.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/qMoWqUy.png" group-title="RD" tvg-id="0048",RD EL Nuevo Diario
 --https://f.gmsiptv.com/memfs/c8a271c5-246c-49fe-a763-dd3cd1382fee.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mqqAytI.png" group-title="RD" tvg-id="0049",RD Boreal
@@ -115,14 +115,14 @@ https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8
 https://media.streambrothers.com:19360/8262/8262.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/snbcCWi.png" group-title="RD" tvg-id="0059",RD Rumba
 https://ss5.domint.net:3038/rum_str/rumba985fm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZORgpwp.png" group-title="RD" tvg-id="0060",RD Telealtura 
-https://glb.bozztv.com/glb/ssh101/codificador7/index.m3u8
+--#EXTINF:-1 tvg-logo="https://i.imgur.com/ZORgpwp.png" group-title="RD" tvg-id="0060",RD Telealtura 
+--https://glb.bozztv.com/glb/ssh101/codificador7/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6c9XuTK.png" group-title="RD" tvg-id="0061",RD TV Vision
 https://cloudflare.streamgato.us:3691/live/tvvisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z4h70BJ.png" group-title="RD" tvg-id="0062",RD DTV
 https://s.emisoras.tv:8081/dtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xIWrvyq.png" group-title="RD" tvg-id="0063",RD GDM Studio
-https://ss2.domint.net:3200/gdm_str/gdmtv/.m3u8
+--#EXTINF:-1 tvg-logo="https://i.imgur.com/xIWrvyq.png" group-title="RD" tvg-id="0063",RD GDM Studio
+--https://ss2.domint.net:3200/gdm_str/gdmtv/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VbJqvMJ.png" group-title="RD" tvg-id="0064",RD El Puerto
 https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qWd9mHB.png" group-title="RD" tvg-id="0065",RD Musavisión
@@ -368,8 +368,8 @@ https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Aqot2dT.jpeg" group-title="TRADING" tvg-id="0179",ComercioTV
 https://d1plnmgh5zr5od.cloudfront.net/out/v1/cd37c119824247bc8886fc6c18f645d9/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LMsDfsV.png" group-title="PELICULAS" tvg-id="0180",LinierosTV
-https://f.gmsiptv.com/memfs/7c43bb26-2b9b-4e1a-85c7-483dae27e8b4.m3u8
+--#EXTINF:-1 tvg-logo="https://i.imgur.com/LMsDfsV.png" group-title="PELICULAS" tvg-id="0180",LinierosTV
+--https://f.gmsiptv.com/memfs/7c43bb26-2b9b-4e1a-85c7-483dae27e8b4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xGkDbcR.png" group-title="PELICULAS" tvg-id="0181",WOW!
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QbPmJR3.png" group-title="PELICULAS" tvg-id="0182",WTV
