@@ -337,19 +337,19 @@ https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
 https://vdo1.streamgato.us:3342/live/televercanal12live.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/Go9gIEQ.jpg" group-title="RD" tvg-id="0170",RD RDN
 --https://cm.hostlagarto.com:4445/rdn/rdn.myStream/playlist.m3u8
---#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="0171",ExitosaTV
+--#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="0171",RD ExitosaTV
 --https://5790d294af2dc.streamlock.net/exitosatv/exitosatv/playlist.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/Bdovihp.jpeg" group-title="RD" tvg-id="0172",TV Avivamiento
 --https://glb.bozztv.com/glb/ssh101/avivamientotv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="0173",Ame 47
+#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="0173",RD Ame 47
 https://ss9.domint.net:3040/ame_str/amecanal47/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",TNI
+#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD TNI
 https://ss5.domint.net:3188/tni_str/tni51/chunklist_w1025043805.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",Canal del Sol
+#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Canal del Sol
 https://5790d294af2dc.streamlock.net/sol65/sol65/chunklist_w301668216.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id=",Haina Vision
+#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id=",RD Haina Vision
 https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",Super Canal
+#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Super Canal
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_360.m3u8
 
 
