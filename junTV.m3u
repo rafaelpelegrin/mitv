@@ -7,8 +7,8 @@ https://host.streamingnation.live/p/3780/live/tvluzlive.m3u8
 https://5790d294af2dc.streamlock.net/8286/8286/playlist.m3u8
 #EXTINF:-1 group-title="RD" tvg-logo="https://i.imgur.com/gLYPLI4.png" tvg-id="0004",RD RTVD
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8?DVR
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jgwi3fP.png" group-title="RD" tvg-id="0005",RD Telemicro
-https://dai.ly/x8mwmvs
+--#EXTINF:-1 tvg-logo="https://i.imgur.com/Jgwi3fP.png" group-title="RD" tvg-id="0005",RD Telemicro
+--https://live2.telemicro.com.do/live/55/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gJ2myKE.png" group-title="RD" tvg-id="0006",RD Urbancrist2
 https://ssh101-fl.bozztv.com/ssh101/urbancrist/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ecrwWe2.png" group-title="RD" tvg-id="0007",RD Antena7
@@ -91,8 +91,8 @@ https://glb.bozztv.com/glb/ssh101/0045/index.m3u8
 https://rdn.essastream.com:3042/live/bajotechotvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gcCgepM.png" group-title="RD" tvg-id="0047",RD SiTV
 http://51.81.93.239:8084/hls/sitv2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qMoWqUy.png" group-title="RD" tvg-id="0048",RD EL Nuevo Diario
-https://f.gmsiptv.com/memfs/c8a271c5-246c-49fe-a763-dd3cd1382fee.m3u8
+--#EXTINF:-1 tvg-logo="https://i.imgur.com/qMoWqUy.png" group-title="RD" tvg-id="0048",RD EL Nuevo Diario
+--https://f.gmsiptv.com/memfs/c8a271c5-246c-49fe-a763-dd3cd1382fee.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mqqAytI.png" group-title="RD" tvg-id="0049",RD Boreal
 https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KFh18tt.png" group-title="RD" tvg-id="0050",RD Telemilenio
@@ -105,8 +105,8 @@ https://vpss2003.streamprolive.com/hls/live.m3u8
 https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FO6176j.png" group-title="RD" tvg-id="0054",RD LVM
 https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c9rMZ2x.png" group-title="RD" tvg-id="0055",RD SuperTV55
-https://ss2.domint.net:3236/stv_str/supertv55/playlist.m3u8
+--#EXTINF:-1 tvg-logo="https://i.imgur.com/c9rMZ2x.png" group-title="RD" tvg-id="0055",RD SuperTV55
+--https://ss2.domint.net:3236/stv_str/supertv55/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmkEEXC.png" group-title="RD" tvg-id="0056",RD Canal 56
 https://cdn5.streamgato.us:3371/live/canal56live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EjzsVG4.png" group-title="RD" tvg-id="0057",RD Telecontacto
@@ -126,7 +126,7 @@ https://ss2.domint.net:3200/gdm_str/gdmtv/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VbJqvMJ.png" group-title="RD" tvg-id="0064",RD El Puerto
 https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qWd9mHB.png" group-title="RD" tvg-id="0065",RD Musavisión
-https://soportedvb.click:3827/live/musavisiontvlive.m3u8
+https://cnn.hostlagarto.com/musavisiontv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zv4DBim.png" group-title="RD" tvg-id="0066",RD Vegavision
 https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gIwYedN.png" group-title="RD" tvg-id="0067",RD Ready
@@ -150,7 +150,7 @@ https://television.essastream.com:3502/live/bebetotelevisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rd0BKht.png" group-title="RD" tvg-id="0076",RD Opcion
 https://5790d294af2dc.streamlock.net/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B9XHkoJ.png" group-title="RD" tvg-id="0077",RD Zona Vision
-https://5790d294af2dc.streamlock.net/Zonavisiontv/Zonavisiontv/.m3u8
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_576.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r6YLQTD.jpg" group-title="RD" tvg-id="0078",RD ArrozTV
 https://inliveserver.com:1936/11548/11548/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NGtIcsX.png" group-title="RD" tvg-id="0079",RD TV10M San Juan
