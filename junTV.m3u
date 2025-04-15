@@ -326,7 +326,7 @@ https://fl1002.bozztv.com/ssh101/tvquisquelive92/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AwBW5s1.png" group-title="RD" tvg-id="0164",RD Luz Divina TV
 https://tv.wracanal10.com:3776/live/luzdivinatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NurHT5q.png" group-title="RD" tvg-id="0165",RD TRA
-http://51.81.106.147:5080/LiveApp/streams/TRA1.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/rctvhdtra/chunks.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/raH4EBY.png" group-title="RD" tvg-id="0166",RD PuntoTV
 https://ss5.domint.net:3042/ptv_str/puntotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fBEJngF.png" group-title="RD" tvg-id="0167",RD Punta Cana TV
@@ -341,9 +341,6 @@ https://cm.hostlagarto.com:4445/rdn/rdn.myStream/playlist.m3u8
 https://5790d294af2dc.streamlock.net/exitosatv/exitosatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bdovihp.jpeg" group-title="RD" tvg-id="168",TV Avivamiento
 https://glb.bozztv.com/glb/ssh101/avivamientotv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="169",Teleradio America
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/rctvhdtra/chunks.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T1d9Dqc.png" group-title="TRADING" tvg-id="0171",Bloomberg 1
 https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
