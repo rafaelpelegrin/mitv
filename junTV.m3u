@@ -349,6 +349,20 @@ https://ss5.domint.net:3188/tni_str/tni51/chunklist_w1025043805.m3u8
 https://5790d294af2dc.streamlock.net/sol65/sol65/chunklist_w301668216.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id=",RD Haina Vision
 https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Constanza TV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/ctv8hd/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD TVPlata
+https://ss9.domint.net:3032/tvp_str/tvp2111/chunklist_w648295456.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Chinola TV
+https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD TV Cotui
+https://5790d294af2dc.streamlock.net/tvcotui31/tvcotui31/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD RDN
+https://vdo2.streamgato.us:3278/live/rdntvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Teletur
+https://cloudflare.streamgato.us:3227/live/teleturtvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Quisqueya TV
+https://protvradiostream.com:1936/rtvd17/ngrp:rtvd17_all/chunklist_w1293948347_b1163840.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Super Canal
 https://elgruposupercanal.streamgato.us:3658/live/supercanal33live.m3u8
 
