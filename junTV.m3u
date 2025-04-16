@@ -9,8 +9,8 @@ https://bloomberg-bloomberg-5-mx.samsung.wurl.tv/manifest/playlist.m3u8
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8?DVR
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/Jgwi3fP.png" group-title="RD" tvg-id="0005",RD Telemicro
 --https://live2.telemicro.com.do/live/55/playlist_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gJ2myKE.png" group-title="RD" tvg-id="0006",RD Urbancrist2
-https://ssh101-fl.bozztv.com/ssh101/urbancrist/tracks-v1a1/mono.m3u8
+--#EXTINF:-1 tvg-logo="https://i.imgur.com/gJ2myKE.png" group-title="RD" tvg-id="0006",RD Urbancrist2
+--https://ssh101-fl.bozztv.com/ssh101/urbancrist/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ecrwWe2.png" group-title="RD" tvg-id="0007",RD Antena7
 https://d3mhrz6vhsrmmq.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cnVYbvw.png" group-title="RD" tvg-id="0008",RD Bellavision
