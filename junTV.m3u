@@ -365,6 +365,9 @@ https://cloudflare.streamgato.us:3227/live/teleturtvlive.m3u8
 https://protvradiostream.com:1936/rtvd17/ngrp:rtvd17_all/chunklist_w1293948347_b1163840.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Super Canal
 https://elgruposupercanal.streamgato.us:3658/live/supercanal33live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD TVO Romana
+https://cdn.mycloudstream.io/hls/live/broadcast/aa5i1jfn/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T1d9Dqc.png" group-title="TRADING" tvg-id="0171",Bloomberg 1
 https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
