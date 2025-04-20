@@ -347,8 +347,8 @@ https://ss9.domint.net:3040/ame_str/amecanal47/chunklist.m3u8
 https://ss5.domint.net:3188/tni_str/tni51/chunklist_w1025043805.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Canal del Sol
 https://5790d294af2dc.streamlock.net/sol65/sol65/chunklist_w301668216.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id=",RD Haina Vision
-https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id=",Pula TV
+https://vdo2.streamgato.us:3239/live/pulatvlive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Constanza TV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/ctv8hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD TVPlata
