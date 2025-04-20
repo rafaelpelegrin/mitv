@@ -1,4 +1,4 @@
-F#EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T1d9Dqc.png" group-title="RD" tvg-id="0001",Bloomberg
 https://bloomberg-bloomberg-5-mx.samsung.wurl.tv/manifest/playlist.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/edgMWBG.png" group-title="RD" tvg-id="0002",RD TV Luz
