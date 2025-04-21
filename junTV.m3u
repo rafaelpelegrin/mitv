@@ -463,10 +463,6 @@ https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/chunklist_w657107
 https://v1.thetvapp.to/hls/FXEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",ION Mistery
 https://aegis-cloudfront-1.tubi.video/b11b44b8-461f-4034-becb-9bb14ee45be2/playlist_vtt.m3u8
-#EXTINF:-1 tvg-id="AXN.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="PELICULAS" tvg-id="",AXN
-http://s4.nihontv.net:21585/axn/index.m3u8
-#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="" group-title="PELICULAS",AXN
-https://streamer1.nexgen.bz/AXN/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/edOXXr0.png" group-title="DEPORTES" tvg-id="224",CDN Deportes
 https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/bc949011-1dd8-4d10-596c-f6910d4a9cf7.m3u8
