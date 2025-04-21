@@ -458,6 +458,15 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS" 246,Teleproyecto
 https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/chunklist_w657107732.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XWw6suD.png" group-title="PELICULAS" tvg-id="",FX East
+https://v1.thetvapp.to/hls/FXEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XWw6suD.png" group-title="PELICULAS" tvg-id="",ION Mistety
+https://v1.thetvapp.to/hls/FXEast/tracks-v1a1/mono.m3u8
+https://aegis-cloudfront-1.tubi.video/b11b44b8-461f-4034-becb-9bb14ee45be2/playlist_vtt.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/edOXXr0.png" group-title="DEPORTES" tvg-id="224",CDN Deportes
 https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/bc949011-1dd8-4d10-596c-f6910d4a9cf7.m3u8
@@ -475,6 +484,14 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/Zb1UCPd.png" group-title="DEPORTES" tvg-id="0270",Pix11
 --http://208.86.19.13:81/106.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="DEPORTES" tvg-id="",Fox Sports 2
+https://v1.thetvapp.to/hls/FoxSports2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="DEPORTES" tvg-id="",MLB
+https://livetv-fa.tubi.video/mlb3/playlist_1280x720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="DEPORTES" tvg-id="",NASCAR
+https://aegis-cloudfront-1.tubi.video/4e6d2330-f93e-4068-b795-9f8585640b13/720p-cc/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="DEPORTES" tvg-id="",NBA TV
+https://aegis-cloudfront-1.tubi.video/c987b155-8d7e-4307-bd24-720bb2843d42/playlist720p.m3u8
 
 
 
