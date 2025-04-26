@@ -455,9 +455,9 @@ https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.desktop
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",FMTV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rdZXgG9.png" group-title="PELICULAS" 245,Moviefe
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rdZXgG9.png" group-title="PELICULAS" tvg-id="",Moviefe
 https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS" 246,Teleproyecto
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",Teleproyecto
 https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/chunklist_w657107732.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",FX East
 https://v1.thetvapp.to/hls/FXEast/tracks-v1a1/mono.m3u8
@@ -465,6 +465,8 @@ https://v1.thetvapp.to/hls/FXEast/tracks-v1a1/mono.m3u8
 https://aegis-cloudfront-1.tubi.video/b11b44b8-461f-4034-becb-9bb14ee45be2/playlist_vtt.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist.m3u8
+#EXTINF:-1 tvg-id="AuroraMediaFilms.gt" tvg-logo="https://i.imgur.com/DVC5w6H.png" group-title="PELICULAS" tvg-id="",Aurora Media Films (720p)
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/edOXXr0.png" group-title="DEPORTES" tvg-id="224",CDN Deportes
 https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/bc949011-1dd8-4d10-596c-f6910d4a9cf7.m3u8
