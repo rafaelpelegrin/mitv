@@ -2355,18 +2355,18 @@ https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/shiVmxM.png" group-title="VE",VE VTV
-https://f.gmsiptv.com/memfs/0ee32c05-178c-4441-9706-0db57bd4b4af.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/18vp26h.png" group-title="VE" tvg-id="1202",VE Venevision
-https://f.gmsiptv.com/memfs/52406692-43ed-42d9-aa11-e749eb6b56ed.m3u8
+--#EXTINF:-1 tvg-logo="https://i.imgur.com/shiVmxM.png" group-title="VE",VE VTV
+--https://f.gmsiptv.com/memfs/0ee32c05-178c-4441-9706-0db57bd4b4af.m3u8
+--#EXTINF:-1 tvg-logo="https://i.imgur.com/18vp26h.png" group-title="VE" tvg-id="1202",VE Venevision
+--https://f.gmsiptv.com/memfs/52406692-43ed-42d9-aa11-e749eb6b56ed.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ci4ud3s.png" group-title="VE",VE Canal I
 https://vcp10.myplaytv.com/canali/canali/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6AQzZyv.png" group-title="VE",VE TeleTuya
-https://f.gmsiptv.com/memfs/50b407dd-cc21-4129-b005-df1898da9527.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QOou0AD.png" group-title="VE" tvg-id="1205",VE Globovision
-https://ythls.armelin.one/channel/UC06Tup55KpXujnN9LzHXBAw.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y9Q7dZz.png" group-title="VE",VE Anzoategui
-https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
+--#EXTINF:-1 tvg-logo="https://i.imgur.com/6AQzZyv.png" group-title="VE",VE TeleTuya
+--https://f.gmsiptv.com/memfs/50b407dd-cc21-4129-b005-df1898da9527.m3u8
+--#EXTINF:-1 tvg-logo="https://i.imgur.com/QOou0AD.png" group-title="VE" tvg-id="1205",VE Globovision
+--https://ythls.armelin.one/channel/UC06Tup55KpXujnN9LzHXBAw.m3u8
+--#EXTINF:-1 tvg-logo="https://i.imgur.com/y9Q7dZz.png" group-title="VE",VE Anzoategui
+--https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G2KErSm.png" group-title="VE",VE Catatumbo
 https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1oIuML6.png" group-title="VE",VE BTA
@@ -2381,40 +2381,40 @@ https://vcp.myplaytv.com/promar/promar/playlist.m3u8
 https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ix7gNBU.png" group-title="VE",VE TRV
 https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lMwOqdn.jpg" group-title="VE",VE Somos TV
-rtmp://vcp3.myplaytv.com/somostv/somostv
+--#EXTINF:-1 tvg-logo="https://i.imgur.com/lMwOqdn.jpg" group-title="VE",VE Somos TV
+--rtmp://vcp3.myplaytv.com/somostv/somostv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O7VoAwN.png" group-title="VE",VE Reforma
 https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TIWNF3Y.png" group-title="VE",VE MDATV
-https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yYyy2fk.png" group-title="VE" tvg-id="1217",VE Colombeia
-https://f.gmsiptv.com/memfs/6949e2fd-8455-4e08-8ffa-d9451279df3b.m3u8
+--#EXTINF:-1 tvg-logo="https://i.imgur.com/TIWNF3Y.png" group-title="VE",VE MDATV
+--https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
+--#EXTINF:-1 tvg-logo="https://i.imgur.com/yYyy2fk.png" group-title="VE" tvg-id="1217",VE Colombeia
+--https://f.gmsiptv.com/memfs/6949e2fd-8455-4e08-8ffa-d9451279df3b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z9gSH9z.png" group-title="VE",VE EVTV
 https://ott.streann.com/loadbalancer/services/public/channels-secure/5a563bdf2cdc32d174f8e995/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MlwCnmZ.png" group-title="VE",VE VPI
-https://f.gmsiptv.com/memfs/ee96f42e-3b79-4505-8129-51e37af05350.m3u8
+--#EXTINF:-1 tvg-logo="https://i.imgur.com/MlwCnmZ.png" group-title="VE",VE VPI
+--https://f.gmsiptv.com/memfs/ee96f42e-3b79-4505-8129-51e37af05350.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5goR002.jpg" group-title="VE",VE TLA
 http://45.173.198.59:8080/hls/nginx3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vUojcZd.png" group-title="VE",VE Cantina TV
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hNASYjj.png" group-title="VE",VE GlowTV
-https://vcp7.myplaytv.com/glowtv/glowtv/.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fn3wVax.jpg" group-title="VE",VE Canal Cultura Venezuela
-https://ythls.armelin.one/channel/UCMPPdsYmf-V6jukDtIfpM_A.m3u8
+--#EXTINF:-1 tvg-logo="https://i.imgur.com/hNASYjj.png" group-title="VE",VE GlowTV
+--https://vcp7.myplaytv.com/glowtv/glowtv/.m3u8
+--#EXTINF:-1 tvg-logo="https://i.imgur.com/Fn3wVax.jpg" group-title="VE",VE Canal Cultura Venezuela
+--https://ythls.armelin.one/channel/UCMPPdsYmf-V6jukDtIfpM_A.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NrTPtQR.jpg" group-title="VE",VE AguacateTV
 https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NQhKHEu.png" group-title="VE",VE Vale TV
 https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LN92K6h/IMG-20230705-154347.jpg" group-title="VE",VE GuaroTV
-https://streamtv.intervenhosting.net:3061/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HG2DM8G/IMG-20230705-153952.jpg" group-title="VE",inter TV
-https://streamtv.intervenhosting.net:3175/hybrid/play.m3u8
+--#EXTINF:-1 tvg-logo="https://i.ibb.co/LN92K6h/IMG-20230705-154347.jpg" group-title="VE",VE GuaroTV
+--https://streamtv.intervenhosting.net:3061/hybrid/play.m3u8
+--#EXTINF:-1 tvg-logo="https://i.ibb.co/HG2DM8G/IMG-20230705-153952.jpg" group-title="VE",inter TV
+--https://streamtv.intervenhosting.net:3175/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cCFxyIp.jpg" group-title="VE",VE KandelaTV
 https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fmGgA0t.png" group-title="VE",VE Oxigeno
 https://vcp.myplaytv.com:1936/oxigenotv/ngrp:oxigenotv_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5pzZ4Vr.png" group-title="VE",VE TAM TV
-https://tv.webtuya.com:3459/live/tammeridalive.m3u8
+--#EXTINF:-1 tvg-logo="https://i.imgur.com/5pzZ4Vr.png" group-title="VE",VE TAM TV
+--https://tv.webtuya.com:3459/live/tammeridalive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/58TRRaN.png" group-title="VE",VE Telecentro VE
 https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nALAD8D.png" group-title="VE",VE FANB
@@ -2426,14 +2426,14 @@ https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SdG3zet.png" group-title="CA",CA City News Toronto
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7iDCWv4.png" group-title="CA",CA Télé-Québec
-https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
+--#EXTINF:-1 tvg-logo="https://i.imgur.com/7iDCWv4.png" group-title="CA",CA Télé-Québec
+--https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9McDIeY.png" group-title="CA",CA Global News BC
 https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzMyNDA1OTdf/GlobalNews_650x650.png" group-title="CA",CA Global News Toronto
 https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9McDIeY.png" group-title="CA",CA Global News Halifax
-https://live.corusdigitaldev.com/groupa/live/b60d1d57-2851-4c29-bf5c-36feed988e57/live.isml/.m3u8
+--#EXTINF:-1 tvg-logo="https://i.imgur.com/9McDIeY.png" group-title="CA",CA Global News Halifax
+--https://live.corusdigitaldev.com/groupa/live/b60d1d57-2851-4c29-bf5c-36feed988e57/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9McDIeY.png" group-title="CA",CA Global News Kingston
 https://live.corusdigitaldev.com/groupa/live/023a9e25-f0cf-4d97-af9f-5c665b7d45b9/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9McDIeY.png" group-title="CA",CA Global News Montreal
@@ -2452,8 +2452,8 @@ https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b
 https://live.corusdigitaldev.com/groupb/live/215422c9-d1b9-4009-aaca-32e403f22b01/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9McDIeY.png" group-title="CA",CA Global News Okanagan
 https://live.corusdigitaldev.com/groupc/live/9fd97fb0-baa8-4191-bd2c-59aa5c9a1d48/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TaWLDkl.png" group-title="CA",CA noovo
-https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
+--#EXTINF:-1 tvg-logo="https://i.imgur.com/TaWLDkl.png" group-title="CA",CA noovo
+--https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AfEpLqX.png" group-title="CA",CA Francophonie24
 https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8?CANADA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MWCpmyL.png" group-title="CA",CA BFM Business
@@ -2468,10 +2468,10 @@ http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cCkAq1Q.png" group-title="CA",CA Alkarma TV
 https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmana1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ly3uZKz.png" group-title="CA",CBC NEWS
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_cbcnews_001.m3u8?ads.caid=CBCNews&ads.csid=samsungtvplus_ca_cbcnews_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=en%2Cfr-CA%2Cfr&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=207&ads.xumo_contentName=CBCNewsEnglish&ads.xumo_providerId=207&ads.xumo_providerName=CBCNewsEnglish&ads.xumo_channelId=9991503&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6ebw6zh.png" group-title="CA",CA BBC Toronto Gaunda Punjab
-http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+--#EXTINF:-1 tvg-logo="https://i.imgur.com/ly3uZKz.png" group-title="CA",CBC NEWS
+--https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_cbcnews_001.m3u8?ads.caid=CBCNews&ads.csid=samsungtvplus_ca_cbcnews_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=en%2Cfr-CA%2Cfr&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=207&ads.xumo_contentName=CBCNewsEnglish&ads.xumo_providerId=207&ads.xumo_providerName=CBCNewsEnglish&ads.xumo_channelId=9991503&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+--#EXTINF:-1 tvg-logo="https://i.imgur.com/6ebw6zh.png" group-title="CA",CA BBC Toronto Gaunda Punjab
+--http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fVg9l2C.png" group-title="CA",CA The Shopping Channel
 https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 
