@@ -465,6 +465,11 @@ https://v1.thetvapp.to/hls/FXEast/tracks-v1a1/mono.m3u8
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist.m3u8
 #EXTINF:-1 tvg-id="AuroraMediaFilms.gt" tvg-logo="https://i.imgur.com/DVC5w6H.png" group-title="PELICULAS" tvg-id="",Aurora Media Films (720p)
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",FX MOVIE CHANNEL ESP
+https://v1.thetvapp.to/hls/FXMovieChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",XTREMA CINE ACCION
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/chunklist_w738892066.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/edOXXr0.png" group-title="DEPORTES" tvg-id="224",CDN Deportes
 https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/bc949011-1dd8-4d10-596c-f6910d4a9cf7.m3u8
@@ -502,6 +507,16 @@ https://livetv-fa.tubi.video/racing-america/playlistR576p.m3u8
 https://cnm-tsl.otteravision.com/cnm/tsl/tsl_540.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="", MOTOSPORT TV
 https://9e2ee5d5.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0dl9ITFM/ccda773e-126e-42c8-b94b-761b57449c7f/3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="", MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="", NAUTICAL CHANNEL
+https://a-cdn.klowdtv.com/live2/nautical_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="", PACK 12 INSIDER
+https://pac12-samsungus.amagi.tv/playlistwebvtt.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="", RACING.COM
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="", RED BULL TV
+https://3ea22335.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/7ef8a18b-da81-4088-9ab3-815a455ddfa6/5.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MGfdxjp.png" group-title="HISPANOS" tvg-id="233",Telemundo PR
