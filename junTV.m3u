@@ -490,7 +490,18 @@ https://livetv-fa.tubi.video/mlb3/playlist_1280x720.m3u8
 https://aegis-cloudfront-1.tubi.video/4e6d2330-f93e-4068-b795-9f8585640b13/720p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="",NBA TV
 https://aegis-cloudfront-1.tubi.video/c987b155-8d7e-4307-bd24-720bb2843d42/playlist720p.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="", FITE 24/7
+https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263/variant/22099682.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="", ESPN NEWS
+https://v1.thetvapp.to/hls/ESPNews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="", FUEL TV
+https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/eng_subs/chunklist_subtitles.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="", RACING AMERICA
+https://livetv-fa.tubi.video/racing-america/playlistR576p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="", TIGO SPORT
+https://cnm-tsl.otteravision.com/cnm/tsl/tsl_540.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="", MOTOSPORT TV
+https://9e2ee5d5.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0dl9ITFM/ccda773e-126e-42c8-b94b-761b57449c7f/3.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MGfdxjp.png" group-title="HISPANOS" tvg-id="233",Telemundo PR
