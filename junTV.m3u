@@ -367,6 +367,14 @@ https://protvradiostream.com:1936/rtvd17/ngrp:rtvd17_all/chunklist_w1293948347_b
 https://elgruposupercanal.streamgato.us:3658/live/supercanal33live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD TVO Romana
 https://cdn.mycloudstream.io/hls/live/broadcast/aa5i1jfn/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Claro Televisión Dominicana
+https://streamunoapp.com:3960/live/claroteledomlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD DeltaTV
+https://rdn.essastream.com:3949/live/deltatv50live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD GH Televisión
+https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD La Caleta TV
+https://rdn.essastream.com:3168/live/lacaletatvlive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T1d9Dqc.png" group-title="TRADING" tvg-id="0171",Bloomberg 1
