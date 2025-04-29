@@ -1,4 +1,4 @@
-#EXTM3U
+F#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T1d9Dqc.png" group-title="RD" tvg-id="0001",Bloomberg
 https://bloomberg-bloomberg-5-mx.samsung.wurl.tv/manifest/playlist.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/edgMWBG.png" group-title="RD" tvg-id="0002",RD TV Luz
@@ -365,8 +365,6 @@ https://cloudflare.streamgato.us:3227/live/teleturtvlive.m3u8
 https://protvradiostream.com:1936/rtvd17/ngrp:rtvd17_all/chunklist_w1293948347_b1163840.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Super Canal
 https://elgruposupercanal.streamgato.us:3658/live/supercanal33live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD TVO Romana
-https://cdn.mycloudstream.io/hls/live/broadcast/aa5i1jfn/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Claro Televisión Dominicana
 https://streamunoapp.com:3960/live/claroteledomlive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD DeltaTV
@@ -375,6 +373,16 @@ https://rdn.essastream.com:3949/live/deltatv50live.m3u8
 https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD La Caleta TV
 https://rdn.essastream.com:3168/live/lacaletatvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Villa Altagracia TV
+https://inliveserver.com:1936/10016/10016/chunklist_w791304022.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD O2XTV
+https://streamunoapp.com:3520/live/oxitvcanal36live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Siembra TV
+https://streamunoapp.com:3809/live/siembratvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Tele Dominicana TV
+https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Claro Vision
+https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T1d9Dqc.png" group-title="TRADING" tvg-id="0171",Bloomberg 1
@@ -477,6 +485,8 @@ https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 https://v1.thetvapp.to/hls/FXMovieChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",XTREMA CINE ACCION
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/chunklist_w738892066.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",Tele Universal
+https://vdo2.streamgato.us:3466/live/teleuniversaldclive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/edOXXr0.png" group-title="DEPORTES" tvg-id="224",CDN Deportes
