@@ -71,8 +71,8 @@ https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
 https://eu1.servers10.com:8081/8128/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NWVW9QV.png" group-title="RD" tvg-id="0037",RD CDN37
 https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/7ed9a111-1110-47df-3bd8-85a9e0a15e3c.m3u8
---#EXTINF:-1 tvg-logo="https://i.imgur.com/xkzbit6.png" group-title="RD" tvg-id="0038",RD Acento
---https://acentotv01.streamprolive.com/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xkzbit6.png" group-title="RD" tvg-id="0038",RD Acento
+https://acentotv01.streamprolive.com/hls/live.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/vshjA7l.png" group-title="RD" tvg-id="0039",RD Coral
 --http://51.81.106.147:5080/LiveApp/streams/coral39.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ynEAZY4.png" group-title="RD" tvg-id="0040",RD Vozz
@@ -151,8 +151,8 @@ https://television.essastream.com:3502/live/bebetotelevisionlive.m3u8
 https://5790d294af2dc.streamlock.net/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B9XHkoJ.png" group-title="RD" tvg-id="0077",RD Zona Vision
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_576.m3u8
---#EXTINF:-1 tvg-logo="https://i.imgur.com/r6YLQTD.jpg" group-title="RD" tvg-id="0078",RD ArrozTV
---https://inliveserver.com:1936/11548/11548/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r6YLQTD.jpg" group-title="RD" tvg-id="0078",RD ArrozTV
+https://inliveserver.com:1936/11548/11548/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NGtIcsX.png" group-title="RD" tvg-id="0079",RD TV10M San Juan
 https://59d39900ebfb8.streamlock.net/TV10SanJuan/TV10SanJuan/playlist.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/8J3oyfq.png" group-title="RD" tvg-id="0080",RD CTN horaXhora
@@ -385,6 +385,10 @@ https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8
 https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD RNN DOS
 https://2-fss-2.streamhoster.com/pl_118/206532-5790308-1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Pronems TV
+https://vdo1.streamgato.us:3418/live/pronemstvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Cenovi Vision
+https://5790d294af2dc.streamlock.net/cenovision/cenovision/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T1d9Dqc.png" group-title="TRADING" tvg-id="0171",Bloomberg 1
 https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
