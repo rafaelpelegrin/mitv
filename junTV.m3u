@@ -108,7 +108,7 @@ https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/c9rMZ2x.png" group-title="RD" tvg-id="0055",RD SuperTV55
 --https://ss2.domint.net:3236/stv_str/supertv55/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmkEEXC.png" group-title="RD" tvg-id="0056",RD Canal 56
-https://cdn5.streamgato.us:3371/live/canal56live.m3u8
+https://vdopanel.jlahozconsulting.com/p/3124/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EjzsVG4.png" group-title="RD" tvg-id="0057",RD Telecontacto
 https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nLBCWZr.png" group-title="RD" tvg-id="0058",RD Valle Nuevo TV
@@ -122,7 +122,7 @@ https://cloudflare.streamgato.us:3691/live/tvvisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z4h70BJ.png" group-title="RD" tvg-id="0062",RD DTV
 https://s.emisoras.tv:8081/dtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xIWrvyq.png" group-title="RD" tvg-id="0063",RD GDM Studio
-https://ss2.domint.net:3200/gdm_str/gdmtv/.m3u8
+https://vdo2.streamgato.us:3216/live/gdmtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VbJqvMJ.png" group-title="RD" tvg-id="0064",RD El Puerto
 https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qWd9mHB.png" group-title="RD" tvg-id="0065",RD Musavisión
@@ -139,8 +139,8 @@ https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/playlist.m3u8
 https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1nn95v2.png" group-title="RD" tvg-id="0071",RD AhoraTV
 https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pdy54gc.png" group-title="RD" tvg-id="0072",RD CDN Radio
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/6a28df0ab60c47c18390887522edd6f3/chunklist_b4628000.m3u8?p=79&s=1712609478&e=1712609598&h=05b22ce1d37d20a9d64241e2465094cf
+--#EXTINF:-1 tvg-logo="https://i.imgur.com/pdy54gc.png" group-title="RD" tvg-id="0072",RD CDN Radio
+--https://dacastmmd.mmdlive.lldns.net/dacastmmd/6a28df0ab60c47c18390887522edd6f3/chunklist_b4628000.m3u8?p=79&s=1712609478&e=1712609598&h=05b22ce1d37d20a9d64241e2465094cf
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TxseHXG.png" group-title="RD" tvg-id="0073",RD Galaxia
 https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/twZCrEE.png" group-title="RD" tvg-id="0074",RD Guaymate
@@ -158,7 +158,7 @@ https://59d39900ebfb8.streamlock.net/TV10SanJuan/TV10SanJuan/playlist.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/8J3oyfq.png" group-title="RD" tvg-id="0080",RD CTN horaXhora
 --https://59ef525c24caa.streamlock.net/ctn/ctn/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnXNKOv.png" group-title="RD" tvg-id="0081",RD Elias Piña TV
-http://live.eliaspinatv.com.do/livelan/stream.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/eptv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gKYHCaV.png"  group-title="RD" tvg-id="0082",RD CanangaTV
 https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vJx8ge5.png" group-title="RD" tvg-id="0083",RD Televisión del Este
@@ -363,8 +363,8 @@ https://vdo2.streamgato.us:3278/live/rdntvlive.m3u8
 https://cloudflare.streamgato.us:3227/live/teleturtvlive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Quisqueya TV
 https://protvradiostream.com:1936/rtvd17/ngrp:rtvd17_all/chunklist_w1293948347_b1163840.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Super Canal
-https://elgruposupercanal.streamgato.us:3658/live/supercanal33live.m3u8
+--#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Super Canal
+--https://elgruposupercanal.streamgato.us:3658/live/supercanal33live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Claro Televisión Dominicana
 https://streamunoapp.com:3960/live/claroteledomlive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD DeltaTV
