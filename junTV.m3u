@@ -383,7 +383,8 @@ https://streamunoapp.com:3809/live/siembratvlive.m3u8
 https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Claro Vision
 https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD RNN DOS
+https://2-fss-2.streamhoster.com/pl_118/206532-5790308-1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T1d9Dqc.png" group-title="TRADING" tvg-id="0171",Bloomberg 1
 https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
