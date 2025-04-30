@@ -553,7 +553,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xkLxtCQ.png" group-title="HISPANOS" tvg-id="237",France24 ES 
 https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CYL7rkP.png" group-title="HISPANOS" tvg-id="238",RT ES
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/faY22MP.png" group-title="HISPANOS" tvg-id="239",24h
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8lXeGrJ.png" group-title="HISPANOS" tvg-id="240",HispanTV
