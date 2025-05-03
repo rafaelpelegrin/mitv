@@ -65,8 +65,8 @@ https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8
 https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s7RtfiM.png" group-title="RD" tvg-id="0034",RD Hilando Fino TV
 https://hilandofinotv.essastream.com/p/3606/live/canalhilandofinotvlive.m3u8
---#EXTINF:-1 tvg-logo="https://i.imgur.com/VgguXoM.png" group-title="RD" tvg-id="0035",RD Zol
---https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VgguXoM.png" group-title="RD" tvg-id="0035",RD Zol
+https://live-c2.cf.dmcdn.net/sec2(TusvbGkXZlRkttQXSjwLHrPtxQ9kcjhX8g18gGOWLGHXOEeEeN495t16RMYPR5TaZ0Fb-G5eVD7lvWfcrHVHn656wh0azzY4lwaMuQxsqeBKKxdXSPoFDvQmGNCwg2uc)/cloud/3/x9ijobo/s/live-480.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b0C3skh.png group-title="RD" tvg-id="0036",RD CV Visión
 https://eu1.servers10.com:8081/8128/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NWVW9QV.png" group-title="RD" tvg-id="0037",RD CDN37
