@@ -427,7 +427,7 @@ https://cdnhd.iblups.com/hls/SJWxXEWwUd.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/XrFcXcs.png" group-title="PELICULAS" tvg-id="0184",PHTV
 --https://vdo1.streamgato.us:3138/live/phtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gnhnz0z.png" group-title="PELICULAS" tvg-id="0186",Cascara TV
-https://ss3.domint.net:3144/ctv_str/cascaratv/.m3u8
+https://cdn.mycloudstream.io/hls/live/broadcast/jhxjodjp/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y3ZMGuQ.png" group-title="PELICULAS" tvg-id="0187",IUTV
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kg5UGbi.png" group-title="PELICULAS" tvg-id="0190",Romance
