@@ -393,6 +393,8 @@ https://5790d294af2dc.streamlock.net/canal6/canal6/chunklist_w1291400762.m3u8
 https://ss3.domint.net:3136/gtv_str/globalhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD HTV 52
 https://vdo1.streamgato.us:3833/live/canalhtvlivelive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Mundo TV
+https://vdo2.streamgato.us:3144/live/mund2tvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T1d9Dqc.png" group-title="TRADING" tvg-id="0171",Bloomberg 1
 https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
