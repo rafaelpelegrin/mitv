@@ -531,6 +531,8 @@ https://aegis-cloudfront-1.tubi.video/c987b155-8d7e-4307-bd24-720bb2843d42/playl
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263/variant/22099682.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="", ESPN NEWS
 https://v1.thetvapp.to/hls/ESPNews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="", ESPN DEPORTES
+https://v1.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="", FUEL TV
 https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/eng_subs/chunklist_subtitles.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="", RACING AMERICA
@@ -1266,6 +1268,8 @@ https://rakuten-comedymovies-3-eu.rakuten.wurl.tv/playlist.m3u8
 --https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/486gvVr.png" group-title="MOVIES" tvg-id="",Family
 --https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/486gvVr.png" group-title="MOVIES" tvg-id="",Sundance TV
+https://v1.thetvapp.to/hls/SundanceTVEast/tracks-v2a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YmqhPj8.png" group-title="ANTILLAS" tvg-id="",Nos TV
