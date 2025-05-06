@@ -321,8 +321,8 @@ https://5790d294af2dc.streamlock.net/8042/8042/playlist.m3u8
 --https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JRYIdqf.jpg" group-title="RD" tvg-id="0162",RD TLSD
 https://vdopanel.jlahozconsulting.com/p/3668/live/santodomingolive.m3u8
---#EXTINF:-1 tvg-logo="https://i.imgur.com/84Ds9kt.png" group-title="RD" tvg-id="0163",RD TV Quisqueya
---https://fl1002.bozztv.com/ssh101/tvquisquelive92/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84Ds9kt.png" group-title="RD" tvg-id="0163",RD TV Quisqueya
+https://protvradiostream.com:1936/rtvd17/ngrp:rtvd17_all/chunklist_w226442325_b1163840.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AwBW5s1.png" group-title="RD" tvg-id="0164",RD Luz Divina TV
 https://tv.wracanal10.com:3776/live/luzdivinatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NurHT5q.png" group-title="RD" tvg-id="0165",RD TRA
@@ -387,6 +387,12 @@ https://2-fss-2.streamhoster.com/pl_118/206532-5790308-1/chunklist.m3u8
 https://vdo1.streamgato.us:3418/live/pronemstvlive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Cenovi Vision
 https://5790d294af2dc.streamlock.net/cenovision/cenovision/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Canal 6 HD
+https://5790d294af2dc.streamlock.net/canal6/canal6/chunklist_w1291400762.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Global TV HD
+https://ss3.domint.net:3136/gtv_str/globalhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD HTV 52
+https://vdo1.streamgato.us:3833/live/canalhtvlivelive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T1d9Dqc.png" group-title="TRADING" tvg-id="0171",Bloomberg 1
 https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
