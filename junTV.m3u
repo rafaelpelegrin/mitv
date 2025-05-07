@@ -15,8 +15,8 @@ https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8?D
 https://d3mhrz6vhsrmmq.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cnVYbvw.png" group-title="RD" tvg-id="0008",RD Bellavision
 https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iK4oxa2.png" group-title="RD" tvg-id="0009",RD Color Vision
-https://raw.githubusercontent.com/benmoose39/dailymotion_to_m3u/main/dailymotion-https://www.dailymotion.com/video/x7gy059.m3u
+--#EXTINF:-1 tvg-logo="https://i.imgur.com/iK4oxa2.png" group-title="RD" tvg-id="0009",RD Color Vision
+--https://live-c.cf.dmcdn.net/sec2(7sbXpDE0XRcvQtW_VR_LFOl6DS4W7DRVVjKcwOX0R0pYdT5OTxQ80TWKgV1uT1_YXeSyHG_imleimn5Du6TdYlfu01OncGhV0leh0ozHcsiqmBIVf-Qj4x3TnzBtNWs8)/dm/3/x7gy059/d/live-240.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/mm2g9U3.png" group-title="RD" tvg-id="0011",RD Telesistema
 --https://f.gmsiptv.com/memfs/4b111efc-5803-4f08-9382-ee4e3a617fc3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDRU7Ne.png" group-title="RD" tvg-id="0012",RD ZTV
