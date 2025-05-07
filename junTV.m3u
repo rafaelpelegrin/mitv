@@ -506,8 +506,8 @@ https://vdo2.streamgato.us:3466/live/teleuniversaldclive.m3u8
 https://streamer1.nexgen.bz/AXN/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",Código TV
 https://vdo2.streamgato.us:3313/live/codigotvlive.m3u8
-
-
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",Cinevisión 19
+https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/edOXXr0.png" group-title="DEPORTES" tvg-id="224",CDN Deportes
 https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/bc949011-1dd8-4d10-596c-f6910d4a9cf7.m3u8
