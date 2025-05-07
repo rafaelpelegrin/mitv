@@ -47,8 +47,7 @@ https://ss9.domint.net:3054/tf_str/telefuturo/.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/Mo4Wvdd.png" group-title="RD" tvg-id="0024",RD Multivision
 --https://ssh101-fl.bozztv.com/ssh101/canalmulti24/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mDK0zJX.png" group-title="RD" tvg-id="0025",RD Telemedios
-https://live-b.cf.dmcdn.net/sec2(lH-tX7sPZez0bqL4MaSHn-YAbnEK2VEdABR_Jlr8BLUUfiopY-sjOBTFdLzMflHjpDskjM06NbkMiorK8_Rtl9qgTU_Z5gczDdsO8C7ezHM8OUPj_XzoljeK14P_C-jz)/dm/3/x9hvyy0/d/live-480.m3u8
---https://ss3.domint.net:3150/c25_str/canal25/playlist.m3u8
+https://ss3.domint.net:3150/c25_str/canal25/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y8nuELT.png" group-title="RD" tvg-id="0026",RD Makao
 https://live.obslivestream.com/makaomux/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mSx4Eee.png" group-title="RD" tvg-id="0027",RD RNN
@@ -398,6 +397,8 @@ https://ss3.domint.net:3136/gtv_str/globalhd/playlist.m3u8
 https://vdo1.streamgato.us:3833/live/canalhtvlivelive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Mundo TV
 https://vdo2.streamgato.us:3144/live/mund2tvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Telemedios Canal 8
+https://live-b.cf.dmcdn.net/sec2(lH-tX7sPZez0bqL4MaSHn-YAbnEK2VEdABR_Jlr8BLUUfiopY-sjOBTFdLzMflHjpDskjM06NbkMiorK8_Rtl9qgTU_Z5gczDdsO8C7ezHM8OUPj_XzoljeK14P_C-jz)/dm/3/x9hvyy0/d/live-480.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T1d9Dqc.png" group-title="TRADING" tvg-id="0171",Bloomberg 1
 https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
