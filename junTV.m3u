@@ -15,10 +15,10 @@ https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8?D
 https://d3mhrz6vhsrmmq.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cnVYbvw.png" group-title="RD" tvg-id="0008",RD Bellavision
 https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
---#EXTINF:-1 tvg-logo="https://i.imgur.com/iK4oxa2.png" group-title="RD" tvg-id="0009",RD Color Vision
---https://live-b.cf.dmcdn.net/sec2(EJ1Zm0-5a0_7_4KoTwvMQvb5qoEJb77oA9wvtSdK_KF6DNT3QbULJsT13Tea1yOnIYOXV2OSeKtjt4Lpm38sx1PvfbtEfa8xahPFKDXFUj6Er8LI6C6MGLUgLzzLGWJf)/dm/3/x7gy059/d/live-720.m3u8
---#EXTINF:-1 tvg-logo="https://i.imgur.com/mm2g9U3.png" group-title="RD" tvg-id="0011",RD Telesistema
---https://live-b2.cf.dmcdn.net/sec2(1RRR0SeKyzEwTOAjLDTa84PhQ0umKiDk92CsYPXsNmO07y49dRvvF3u0ZfxR5_09GtiUrtDwiV5X6TCjcUW7YMqppPaLKZOGkzx0zxNwW7TWKy_fneHcFwXYhMVcrzwJ)/cloud/3/x80ac48/d/live-720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iK4oxa2.png" group-title="RD" tvg-id="0009",RD Color Vision
+https://live-b.cf.dmcdn.net/sec2(ZsKP5GNxTSTY-L84Dtx1Am0N_J2gBA6vaazurVcyOJIPStjbsPw-A1GXWSUn5ywDHEPsXjkLxk-r80Qa4rrdcUE4HMVkhxcMEViXtF5co86NIF6qky1EAdmkvZpGvnDW)/dm/3/x7gy059/d/live-480.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mm2g9U3.png" group-title="RD" tvg-id="0011",RD Telesistema
+https://live-b2.cf.dmcdn.net/sec2(tfEWKIHFU25_LyYonGZ7uIBY1EqL3OXT6zCub8SyJ-SOjYqtEKZkhs0o_UxJP7YlykQCyzIgWRQdK2nLDMf-ql3qXrBEG3d6wd7JaBU3zl_m8x2cmSC6yqiARNRm8Eh8)/cloud/3/x80ac48/d/live-720.m3u8
 --https://f.gmsiptv.com/memfs/4b111efc-5803-4f08-9382-ee4e3a617fc3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDRU7Ne.png" group-title="RD" tvg-id="0012",RD ZTV
 https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
@@ -356,7 +356,7 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/ctv8hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD TVPlata
 https://ss9.domint.net:3032/tvp_str/tvp2111/chunklist_w648295456.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Chinola TV
-https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/chunklist_w2073743671.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD TV Cotui
 https://cloudflare.streamgato.us:3490/live/cotuitvlive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD RDN
@@ -397,8 +397,8 @@ https://ss3.domint.net:3136/gtv_str/globalhd/playlist.m3u8
 https://vdo1.streamgato.us:3833/live/canalhtvlivelive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Mundo TV
 https://vdo2.streamgato.us:3144/live/mund2tvlive.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Telemedios Canal 8
-https://live-b.cf.dmcdn.net/sec2(lH-tX7sPZez0bqL4MaSHn-YAbnEK2VEdABR_Jlr8BLUUfiopY-sjOBTFdLzMflHjpDskjM06NbkMiorK8_Rtl9qgTU_Z5gczDdsO8C7ezHM8OUPj_XzoljeK14P_C-jz)/dm/3/x9hvyy0/d/live-480.m3u8
+--#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Telemedios Canal 8
+--https://live-b.cf.dmcdn.net/sec2(lH-tX7sPZez0bqL4MaSHn-YAbnEK2VEdABR_Jlr8BLUUfiopY-sjOBTFdLzMflHjpDskjM06NbkMiorK8_Rtl9qgTU_Z5gczDdsO8C7ezHM8OUPj_XzoljeK14P_C-jz)/dm/3/x9hvyy0/d/live-480.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T1d9Dqc.png" group-title="TRADING" tvg-id="0171",Bloomberg 1
 https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
@@ -506,8 +506,6 @@ https://vdo2.streamgato.us:3466/live/teleuniversaldclive.m3u8
 https://streamer1.nexgen.bz/AXN/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",Código TV
 https://vdo2.streamgato.us:3313/live/codigotvlive.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",Cinevisión 19
-https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/edOXXr0.png" group-title="DEPORTES" tvg-id="224",CDN Deportes
 https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/bc949011-1dd8-4d10-596c-f6910d4a9cf7.m3u8
