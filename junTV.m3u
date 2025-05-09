@@ -16,7 +16,7 @@ https://d3mhrz6vhsrmmq.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cnVYbvw.png" group-title="RD" tvg-id="0008",RD Bellavision
 https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iK4oxa2.png" group-title="RD" tvg-id="0009",RD Color Vision
-yt-dlp -F https://live-b.cf.dmcdn.net/sec2(CWB0xX77bYVSCBNSX_hfwdpR4cqkoFtowywry4bSw3y5LZfmlbQqJ3vnRqvQkonyn1UC8xNbIL24vdaGdya3qv1Z1L_wumDuOncywhFTfyrENjp9S5hapQZRqceAwSUU)/dm/3/x7gy059/d/live-480.m3u8
+https://live-b.cf.dmcdn.net/dm/3/x7gy059/d/live-480.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/mm2g9U3.png" group-title="RD" tvg-id="0011",RD Telesistema
 --https://live-b2.cf.dmcdn.net/sec2(tfEWKIHFU25_LyYonGZ7uIBY1EqL3OXT6zCub8SyJ-SOjYqtEKZkhs0o_UxJP7YlykQCyzIgWRQdK2nLDMf-ql3qXrBEG3d6wd7JaBU3zl_m8x2cmSC6yqiARNRm8Eh8)/cloud/3/x80ac48/d/live-720.m3u8
 --https://f.gmsiptv.com/memfs/4b111efc-5803-4f08-9382-ee4e3a617fc3.m3u8
