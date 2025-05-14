@@ -292,7 +292,7 @@ https://vdo.voxhdnet.com:3159/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fvm0V1D.png" group-title="RD" tvg-id="0146",RD Radio Emanuel
 https://livetv.305streamhd.com:3868/live/bagogeublive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XkTepcQ.png" group-title="RD" tvg-id="0147",RD CanaTV
-https://streams.hostuis.com:19360/vcfarbxjam/vcfarbxjam.m3u8
+https://stream.hostuis.com:19360/canatvdigital/canatvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cFe3neu.png" group-title="RD" tvg-id="0148",RD Mia Vision
 https://rdn.essastream.com:3550/live/miavisiontvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZNA84ot.png" group-title="RD" tvg-id="0149",RD NitidaTV
