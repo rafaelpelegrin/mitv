@@ -490,14 +490,14 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",Teleproyecto
 https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/chunklist_w657107732.m3u8
---#EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",FX East
---https://v1.thetvapp.to/hls/FXEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",FX East
+https://v1.thetvapp.to/hls/FXEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist.m3u8
 #EXTINF:-1 tvg-id="AuroraMediaFilms.gt" tvg-logo="https://i.imgur.com/DVC5w6H.png" group-title="PELICULAS" tvg-id="",Aurora Media Films (720p)
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
---#EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",FX MOVIE CHANNEL
---https://v1.thetvapp.to/hls/FXMovieChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",FX MOVIE CHANNEL
+https://v1.thetvapp.to/hls/FXMovieChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",XTREMA CINE ACCION
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/chunklist_w738892066.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",Tele Universal
