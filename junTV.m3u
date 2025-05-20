@@ -202,7 +202,7 @@ https://rdn.essastream.com:3258/live/telecanal12live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oOoAwl4.png" group-title="RD" tvg-id="0100",RD San Isidro
 https://rdn.essastream.com:3160/live/sanisidrotvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uJwwQ03.png" group-title="RD" tvg-id="0101",RD Onda
-https://ss5.domint.net:3176/otv_str/ondatv/playlist.m3u8
+https://cnn.hostlagarto.com/ondatv/tracks-v1a1/mono.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/Ny2bjvc.png" group-title="RD" tvg-id="0102",RD La Ruta
 --https://vsrv2.az-streamingserver.com:3983/live/larutatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YGuYBvn.png" group-title="RD" tvg-id="0103",RD CitricoTV
