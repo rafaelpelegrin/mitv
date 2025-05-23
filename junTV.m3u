@@ -73,8 +73,7 @@ https://eu1.servers10.com:8081/8128/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NWVW9QV.png" group-title="RD" tvg-id="0037",RD CDN37
 https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/7ed9a111-1110-47df-3bd8-85a9e0a15e3c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xkzbit6.png" group-title="RD" tvg-id="0038",RD Acento
-https://live-c.cf.dmcdn.net/sec2(sur3fis-PN9VnRMBh-t4EyGnRBXpWIeP0PGrFkmCux8b6irB_yajo-wF2BE-E-FJqiGX_zx3N_dFYf0WC4f07TbZLIE9c37ZDesVLkwYr2F1WhuLpBFpep7jgUiCnM2V)/dm/3/x8dxadh/s/live-480.m3u8
---https://acentotv01.streamprolive.com/hls/live.m3u8
+https://acentotv01.streamprolive.com/hls/live.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/vshjA7l.png" group-title="RD" tvg-id="0039",RD Coral
 --http://51.81.106.147:5080/LiveApp/streams/coral39.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ynEAZY4.png" group-title="RD" tvg-id="0040",RD Vozz
