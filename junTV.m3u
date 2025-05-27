@@ -499,8 +499,8 @@ https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/chunklist_w657107
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist.m3u8
 #EXTINF:-1 tvg-id="AuroraMediaFilms.gt" tvg-logo="https://i.imgur.com/DVC5w6H.png" group-title="PELICULAS" tvg-id="",Aurora Media Films (720p)
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
---#EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",FX MOVIE CHANNEL
---https://v1.thetvapp.to/hls/FXMovieChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",FX MOVIE CHANNEL
+https://fl3.moveonjoy.com/FX_MOVIE/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",XTREMA CINE ACCION
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/chunklist_w738892066.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",Tele Universal
@@ -509,6 +509,15 @@ https://vdo2.streamgato.us:3466/live/teleuniversaldclive.m3u8
 https://streamer1.nexgen.bz/AXN/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",Código TV
 https://vdo2.streamgato.us:3313/live/codigotvlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",Cine Sony
+https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",Cine Canal
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/tracks-a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",CosmosTV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",MCI TV
+https://video.ejeserver.com/live/mcitelevision.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/edOXXr0.png" group-title="DEPORTES" tvg-id="224",CDN Deportes
 https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/bc949011-1dd8-4d10-596c-f6910d4a9cf7.m3u8
@@ -530,6 +539,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a7
 https://v1.thetvapp.to/hls/FoxSports2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="",MLB
 https://livetv-fa.tubi.video/mlb3/playlist_1280x720.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="",MLB NETWORK
+https://fl3.moveonjoy.com/MLB_NETWORK/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="",NASCAR
 https://aegis-cloudfront-1.tubi.video/4e6d2330-f93e-4068-b795-9f8585640b13/720p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="",NBA TV
@@ -556,6 +567,8 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_264.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="", Pac12insider
 https://pac12-samsungus.amagi.tv/playlist480_p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="", ESPN U
+https://fl3.moveonjoy.com/ESPN_U/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MGfdxjp.png" group-title="HISPANOS" tvg-id="233",Telemundo PR
