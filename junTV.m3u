@@ -42,8 +42,8 @@ https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8
 https://d1p8txxph783az.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xiiSIjz.png" group-title="RD" tvg-id="0022",RD TVH
 https://vdo1.streamgato.us:3046/live/tvhigueycanal12live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xYt3m9D.png" group-title="RD" tvg-id="0023",RD Telefuturo
-https://ss9.domint.net:3054/tf_str/telefuturo/.m3u8
+--#EXTINF:-1 tvg-logo="https://i.imgur.com/xYt3m9D.png" group-title="RD" tvg-id="0023",RD Telefuturo
+--https://ss9.domint.net:3054/tf_str/telefuturo/.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/Mo4Wvdd.png" group-title="RD" tvg-id="0024",RD Multivision
 --https://ssh101-fl.bozztv.com/ssh101/canalmulti24/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mDK0zJX.png" group-title="RD" tvg-id="0025",RD Telemedios
@@ -72,8 +72,8 @@ https://hilandofinotv.essastream.com/p/3606/live/canalhilandofinotvlive.m3u8
 https://eu1.servers10.com:8081/8128/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NWVW9QV.png" group-title="RD" tvg-id="0037",RD CDN37
 https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/7ed9a111-1110-47df-3bd8-85a9e0a15e3c.m3u8
---#EXTINF:-1 tvg-logo="https://i.imgur.com/xkzbit6.png" group-title="RD" tvg-id="0038",RD Acento
---https://acentotv01.streamprolive.com/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xkzbit6.png" group-title="RD" tvg-id="0038",RD Acento
+https://acentotv01.streamprolive.com/hls/live.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/vshjA7l.png" group-title="RD" tvg-id="0039",RD Coral
 --http://51.81.106.147:5080/LiveApp/streams/coral39.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ynEAZY4.png" group-title="RD" tvg-id="0040",RD Vozz
@@ -176,8 +176,8 @@ https://cloud2.streaminglivehd.com:1936/8246/8246/.m3u8
 https://inliveserver.com:1936/digital809tv/digital809tv/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dyJMUTd.png" group-title="RD" tvg-id="0088",RD Telemax
 https://vdo2.streamgato.us:3673/live/telemaxlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mKp3460.png" group-title="RD" tvg-id="0089",RD Buena TV
-https://rdn.essastream.com:3883/live/buenatvlive.m3u8
+--#EXTINF:-1 tvg-logo="https://i.imgur.com/mKp3460.png" group-title="RD" tvg-id="0089",RD Buena TV
+--https://rdn.essastream.com:3883/live/buenatvlive.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/e5HhAu5.png" group-title="RD" tvg-id="0090",RD RenuevoTV
 --https://ss3.domint.net:3130/rtv_str/renuevotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/idBm4fw.png" group-title="RD" tvg-id="0091",RD LeñaTV
@@ -219,7 +219,8 @@ https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yLLQTWa.jpg" group-title="RD" tvg-id="0109",RD CibaeñaTV
 https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ATsXdO.png" group-title="RD" tvg-id="0110",RD MaimonTV
-https://ss9.domint.net:3038/mtvd_str/miamontv/playlist.m3u8
+https://maimontv.com/stream3/index.m3u8
+--https://ss9.domint.net:3038/mtvd_str/miamontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/laFJQxs.png" group-title="RD" tvg-id="0111",RD Canalda
 https://canalda.rgradio.net:3084/live/canaldalive.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/nCoytgT.png" group-title="RD" tvg-id="0112",RD Canal HTV
@@ -243,7 +244,7 @@ https://ss5.domint.net:3184/mia_str/lamiatv/playlist.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/NoRvqPd.png" group-title="RD" tvg-id="0121",RD PrensaTV
 --https://cdn5.streamgato.us:3300/live/prensatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rufMCFJ.jpg" group-title="RD" tvg-id="0122",RD SurTV
-https://ss9.domint.net:3030/sur_str/surtv/playlist.m3u8
+https://streamtvs.tvcanalsur.com.do/hls/stream/index.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/b1rJHq6.png" group-title="RD" tvg-id="0123",RD Teleradio Norte
 --https://angelistic.live:3785/live/tvoficiallive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PNOPnYI.png" group-title="RD" tvg-id="0124",RD Yuna Vision
@@ -252,8 +253,8 @@ https://ss9.domint.net:3036/yv_str/yunavision/.m3u8
 --https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l3Ft2D4.png" group-title="RD" tvg-id="0126",RD TeleCibao
 https://vdo2.streamgato.us:3713/live/telecibaotvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIKLCbt.png" group-title="RD" tvg-id="0127",RD Rteve
-https://cnn2.hostlagarto.com:3325/live/rtelevisionlive.m3u8
+--#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIKLCbt.png" group-title="RD" tvg-id="0127",RD Rteve
+--https://cnn2.hostlagarto.com:3325/live/rtelevisionlive.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/4SZ8bNq.png" group-title="RD" tvg-id="0128",RD DajaTV
 --https://rdn.essastream.com:3388/live/dajatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CmsN97v.jpg" group-title="RD" tvg-id="0129",RD OEPM
@@ -326,10 +327,10 @@ https://vdopanel.jlahozconsulting.com/p/3668/live/santodomingolive.m3u8
 https://protvradiostream.com:1936/rtvd17/ngrp:rtvd17_all/chunklist_w226442325_b1163840.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AwBW5s1.png" group-title="RD" tvg-id="0164",RD Luz Divina TV
 https://tv.wracanal10.com:3776/live/luzdivinatvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NurHT5q.png" group-title="RD" tvg-id="0165",RD TRA
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/rctvhdtra/chunks.m3u8
+--#EXTINF:-1 tvg-logo="https://i.imgur.com/NurHT5q.png" group-title="RD" tvg-id="0165",RD TRA
+--https://ssh101stream.ssh101.com/akamaissh101/ssh101/rctvhdtra/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/raH4EBY.png" group-title="RD" tvg-id="0166",RD PuntoTV
-https://ss5.domint.net:3042/ptv_str/puntotv/playlist.m3u8
+https://vdo1.streamgato.us:3599/live/puntotvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fBEJngF.png" group-title="RD" tvg-id="0167",RD Punta Cana TV
 https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/TCBGRkV.png" group-title="RD" tvg-id="0168",RD CelestialTV
@@ -343,15 +344,16 @@ https://vdo1.streamgato.us:3342/live/televercanal12live.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/Bdovihp.jpeg" group-title="RD" tvg-id="0172",TV Avivamiento
 --https://glb.bozztv.com/glb/ssh101/avivamientotv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="0173",RD Ame 47
-https://ss9.domint.net:3040/ame_str/amecanal47/chunklist.m3u8
+https://ss2.tvrdomi.com:1936/ame47/ame47/playlist.m3u8
+--https://ss9.domint.net:3040/ame_str/amecanal47/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD TNI
-https://ss5.domint.net:3188/tni_str/tni51/chunklist_w1025043805.m3u8
+https://ss5.domint.net:3188/tni_str/tni51/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Canal del Sol
 https://5790d294af2dc.streamlock.net/sol65/sol65/chunklist_w301668216.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id=",Pula TV
 https://vdo2.streamgato.us:3239/live/pulatvlive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Constanza TV
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/ctv8hd/chunks.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD TVPlata
 https://ss9.domint.net:3032/tvp_str/tvp2111/chunklist_w648295456.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Chinola TV
@@ -398,6 +400,8 @@ https://vdo1.streamgato.us:3833/live/canalhtvlivelive.m3u8
 https://vdo2.streamgato.us:3144/live/mund2tvlive.m3u8
 --#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Telemedios Canal 8
 --https://live-b.cf.dmcdn.net/sec2(lH-tX7sPZez0bqL4MaSHn-YAbnEK2VEdABR_Jlr8BLUUfiopY-sjOBTFdLzMflHjpDskjM06NbkMiorK8_Rtl9qgTU_Z5gczDdsO8C7ezHM8OUPj_XzoljeK14P_C-jz)/dm/3/x9hvyy0/d/live-480.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD TRA2
+https://live20.bozztv.com/akamaissh101/ssh101/rctvhdtra/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T1d9Dqc.png" group-title="TRADING" tvg-id="0171",Bloomberg 1
 https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
