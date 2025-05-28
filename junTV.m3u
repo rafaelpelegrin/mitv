@@ -121,7 +121,8 @@ https://ss5.domint.net:3038/rum_str/rumba985fm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6c9XuTK.png" group-title="RD" tvg-id="0061",RD TV Vision
 https://cloudflare.streamgato.us:3691/live/tvvisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z4h70BJ.png" group-title="RD" tvg-id="0062",RD DTV
-https://s.emisoras.tv:8081/dtv/index.m3u8
+https://s.emisoras.tv:8081/dtv/tracks-v1a1/mono.m3u8
+--https://s.emisoras.tv:8081/dtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xIWrvyq.png" group-title="RD" tvg-id="0063",RD GDM Studio
 https://vdo2.streamgato.us:3216/live/gdmtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VbJqvMJ.png" group-title="RD" tvg-id="0064",RD El Puerto
