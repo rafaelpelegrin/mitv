@@ -11,8 +11,8 @@ https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8?D
 --https://live2.telemicro.com.do/live/55/playlist_dvr.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/gJ2myKE.png" group-title="RD" tvg-id="0006",RD Urbancrist2
 --https://ssh101-fl.bozztv.com/ssh101/urbancrist/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ecrwWe2.png" group-title="RD" tvg-id="0007",RD Antena7
-https://d3mhrz6vhsrmmq.cloudfront.net/index.m3u8
+--#EXTINF:-1 tvg-logo="https://i.imgur.com/ecrwWe2.png" group-title="RD" tvg-id="0007",RD Antena7
+--https://d3mhrz6vhsrmmq.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cnVYbvw.png" group-title="RD" tvg-id="0008",RD Bellavision
 https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/iK4oxa2.png" group-title="RD" tvg-id="0009",RD Color Vision
@@ -38,8 +38,8 @@ https://ss5.domint.net:3174/car_str/carivision/playlist.m3u8
 https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/wUowj4i.png" group-title="RD" tvg-id="0020",RD Cielo
 --https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ABfzzlG.png" group-title="RD" tvg-id="0021",RD Antena21
-https://d1p8txxph783az.cloudfront.net/index.m3u8
+--#EXTINF:-1 tvg-logo="https://i.imgur.com/ABfzzlG.png" group-title="RD" tvg-id="0021",RD Antena21
+--https://d1p8txxph783az.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xiiSIjz.png" group-title="RD" tvg-id="0022",RD TVH
 https://vdo1.streamgato.us:3046/live/tvhigueycanal12live.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/xYt3m9D.png" group-title="RD" tvg-id="0023",RD Telefuturo
