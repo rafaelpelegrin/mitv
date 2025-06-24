@@ -441,7 +441,7 @@ https://cdnhd.iblups.com/hls/SJWxXEWwUd.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/XrFcXcs.png" group-title="PELICULAS" tvg-id="0184",PHTV
 --https://vdo1.streamgato.us:3138/live/phtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gnhnz0z.png" group-title="PELICULAS" tvg-id="0186",Cascara TV
-https://cdn.mycloudstream.io/hls/live/broadcast/jhxjodjp/mono.m3u8
+https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y3ZMGuQ.png" group-title="PELICULAS" tvg-id="0187",IUTV
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kg5UGbi.png" group-title="PELICULAS" tvg-id="0190",Romance
@@ -458,8 +458,6 @@ https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
 https://run-ra-es.otteravision.com/run/ra_es/ra_es.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xRaUj2O.jpg" group-title="PELICULAS" tvg-id="0196",My TV Clasicos
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
---#EXTINF:-1 tvg-logo="https://i.imgur.com/4DBdujm.png" group-title="PELICULAS" tvg-id="0197",Canela Classics
---https://stream.ads.ottera.tv/playlist.m3u8?network_id=652&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=cedda9b5b2307a1fde49393681a0d8e7&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&gender=not_specified&yob=0&livestream=1&timestamp=1646882540&id=13487&ip=200.88.92.239&override_expiration=1500&sign=JEXvc3k33wnePEu3aPVLzzXE8tz2HBvh6RRveblS71M%3D
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wKMComo.png" group-title="PELICULAS" tvg-id="0198",Mytime 1
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wKMComo.png" group-title="PELICULAS" tvg-id="0199",Mytime 2
@@ -472,8 +470,6 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 https://vdo1.streamgato.us:3342/live/televercanal12live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",Alcarrizos TV
 https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/chunklist_w99763513.m3u8
---#EXTINF:-1 tvg-logo="https://i.imgur.com/f7QKpZh.png" group-title="PELICULAS" 240,Flou Channel
---https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01365-spanglishmovies-floucinedistro-distrotv/playlist.m3u8?us_privacy=0&rnd=3qph&aid=6eff0d02-9a6a-435f-b9e5-cfb82cebdf04&deviceOS=&width=1125&height=633&deviceMake=Web&deviceId=6eff0d02-9a6a-435f-b9e5-cfb82cebdf04&deviceIdType=cookie&deviceDNT=0&bundle=undefined&app_version=202105131041&appCategory=entertainment&storeurl=undefined&gdpr=0&env_i=53cc0b98-6ef5-4065-9a6b-f8496a464833&env_u=6eff0d02-9a6a-435f-b9e5-cfb82cebdf04&lat=18.46150&long=-69.89650&geo=DO&deviceConnectionType=2&dma=false&geoType=2&user_agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F121.0.0.0%20Safari%2F537.36&paln=AQzzBGQEhYpmz5doSw0jzQVmyoopXxJMdDaonF_z1fFwDdNwaJ-HZ_hEhXmj3oaTE8Gqv7BDqSaeM2Xb4LjTtKnMgL7oyZlyClz6eSwHyiKOwXSWylYMZDTYt-O-NfPO3mZor7rkfzQ1Ifg57BHUz8wxfX-_WmNBrF4NwtUy55n8Ry44zY86aApTM0Zb_GBF-sUD4E8Ax9nEB_eKqz_VPOuBntkU4QY5N7qCdMRNguQ2WcCTpkmt0ZWhA1a8mi2KiNKlLnlBJdReJEtbM5mmYRTrv3fpaZmqx8Tzpu02J0OjHtaqNnP7MwIhN-DMIT63hNoHW9VKuvevquqFc-PQyspSsw3zBqkd21HjfDG5wHMpManZc0nueyiS__HaQYUVmMDq7GCZ4agfx_XF_jEGqjRwtk8ttyEwnumQA6fdLeRJpcb0yWiN5lT1IX2lXRIgefgFCPbXw2cl2q5t7EmdpxqhX8iBGZOEiIEIK_rKgAIDv7eRAWICiWSEkWO2dPWYWaBUVKHR8P9fiaf0VH0hwswS6gzAHa5LDsWLNfQfgtED6soqk67qJmfWwjg5fL-XPNt1V2HGUVCmR9ykzNZSU_KFnn1XYoMVS3RNLiZwX3WOyASCCjm1Skj6i5F-nGzuOEpLlydPQzGo3GHPB_n4t5ZYnvgLP9-TnlIfGydGExxPSmibk-ykMAp4m9Kr1RTAohSW3x8lWyUGqXALT_CrZ6whPB6EDKBDbNMKpbw93jRXpKPN-9fwApMJMZU4v5EGdNgedTiCe7bG8GXGgSXk0Z3PbTacXdyh506QYmDhGB4MbAPgADDij-khvukNhxxV8pbu94PS2yfTZ60a5srveu4s2sK0LQPmMsHr3IKakHrZOLviLwEdgxyd6MXH0ggOygo4mm23cEMxNB7qqkYGd5kzrK-7FGn27xodHg9qo6aUs6lCqyZRdoHrDjYokug-fNzVLvpgxwfWEoYkG0X-Ci0oMC11-3eNNoKt8RFFsGdAd1a9OuvECiOoFEMwRQ4DRfndHywGp8tvQhizpMNpw3kToSwPIKVq4KAX8LoFVRVjtCO41aw4LKItkfxBFw19HllzWnufokmQntHSWzGMavn9aEnQpEKZsb8HLLnCBCSYmhkPT5d4mWaOFl7a-Kp9n0U9_q528IgUc6HAElfsBw-pLic-P3R8YIuKEE14Cw..&ads.islive=1&ads.streamtype=live
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/EynUf6P.png" group-title="PELICULAS" 235,Action
 --https://rakuten-actionmovies-2-es.xiaomi.wurl.tv/playlist.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/EynUf6P.png" group-title="PELICULAS" tvg-id="0208",Cine 2
@@ -484,8 +480,6 @@ https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/chunklist_w997635
 --https://rakuten-comedymovies-2-es.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XWw6suD.png" group-title="PELICULAS" tvg-id="0210",TVRetro Palmares
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
---#EXTINF:-1 tvg-logo="https://i.imgur.com/QSVfpZ3.png" group-title="PELICULAS" tvg-id="0211",Comedias 
---https://b1e945c80353459a8dca16651625ad2e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel=428&ads.wurl_name=RakutenComedyMovies&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/g4lRvgJ.png" group-title="PELICULAS" tvg-id="0213",CanelaTV
 --https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.desktop
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",FMTV
@@ -494,8 +488,8 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",Teleproyecto
 https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/chunklist_w657107732.m3u8
---#EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",FX East
---https://v1.thetvapp.to/hls/FXEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",FX East
+https://fl5.moveonjoy.com/FX/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist.m3u8
 #EXTINF:-1 tvg-id="AuroraMediaFilms.gt" tvg-logo="https://i.imgur.com/DVC5w6H.png" group-title="PELICULAS" tvg-id="",Aurora Media Films (720p)
@@ -518,6 +512,12 @@ https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/tracks-a1/mon
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",MCI TV
 https://video.ejeserver.com/live/mcitelevision.m3u8
+#EXTINF:-1 tvg-id="CSI.us" tvg-logo="https://i.imgur.com/xLLNEfA.png" group-title="Series",CSI
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285530-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6e46fc93-9eb8-4999-b20e-4600002dd255
+#EXTINF:-1 tvg-id="CSIenespanol.us" tvg-logo="https://i.imgur.com/ifarQil.png" group-title="Undefined",CSI en Español
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285532-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ec065848-4bdc-45cb-ad2c-0ef96c23d424
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",FXX EAST
+https://fl3.moveonjoy.com/FXX/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/edOXXr0.png" group-title="DEPORTES" tvg-id="224",CDN Deportes
@@ -549,9 +549,9 @@ https://aegis-cloudfront-1.tubi.video/c987b155-8d7e-4307-bd24-720bb2843d42/playl
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="", FITE 24/7
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263/variant/22099682.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="", ESPN NEWS
-https://v1.thetvapp.to/hls/ESPNews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="", ESPN DEPORTES
-https://v1.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8
+https://fl3.moveonjoy.com/ESPN_NEWS/tracks-v1a1/mono.ts.m3u8
+--#EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="", ESPN DEPORTES
+--https://v1.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="", FUEL TV
 https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/eng_subs/chunklist_subtitles.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="", RACING AMERICA
@@ -569,7 +569,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_264.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="", Pac12insider
 https://pac12-samsungus.amagi.tv/playlist480_p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="", ESPN U
-https://fl3.moveonjoy.com/ESPN_U/tracks-v1a1/mono.ts.m3u8
+https://fl3.moveonjoy.com/FXX/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MGfdxjp.png" group-title="HISPANOS" tvg-id="233",Telemundo PR
