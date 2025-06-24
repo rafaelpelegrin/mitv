@@ -33,7 +33,7 @@ https://cdn.essastream.com:3457/live/noticiasn16live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PwIK5uL.png" group-title="RD" tvg-id="0017",RD AION
 https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SNfABoY.png" group-title="RD" tvg-id="0018",RD Carivision
-https://ss5.domint.net:3174/car_str/carivision/playlist.m3u8
+https://ss2.tvrdomi.com:1936/carivision/carivision/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eo6RB4l.png" group-title="RD" tvg-id="0019",RD Canal 19
 https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/wUowj4i.png" group-title="RD" tvg-id="0020",RD Cielo
@@ -70,11 +70,10 @@ https://hilandofinotv.essastream.com/p/3606/live/canalhilandofinotvlive.m3u8
 --https://live-c2.cf.dmcdn.net/sec2(TusvbGkXZlRkttQXSjwLHrPtxQ9kcjhX8g18gGOWLGHXOEeEeN495t16RMYPR5TaZ0Fb-G5eVD7lvWfcrHVHn656wh0azzY4lwaMuQxsqeBKKxdXSPoFDvQmGNCwg2uc)/cloud/3/x9ijobo/s/live-480.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b0C3skh.png group-title="RD" tvg-id="0036",RD CV Visión
 https://eu1.servers10.com:8081/8128/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NWVW9QV.png" group-title="RD" tvg-id="0037",RD CDN37
-https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/2c55658a-f26a-bed7-eb29-a28e610fd7c7.m3u8
+--#EXTINF:-1 tvg-logo="https://i.imgur.com/NWVW9QV.png" group-title="RD" tvg-id="0037",RD CDN37
+--https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/2c55658a-f26a-bed7-eb29-a28e610fd7c7.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xkzbit6.png" group-title="RD" tvg-id="0038",RD Acento
-https://live.eu-north-1a.cf.dmcdn.net/sec2(zfAjCnfvr93pJdaEDDT-KN4FnhoGqAM4bU7mfRv0PxsuZZxtPmvZuWueIml5jgrwEcXJ0AUVheHkLZVHJ-vsBbV2OHt3ItB2QwZdiq_ZhBJ7I3BUb5AqVe-OaKLifHqI)/dm/3/x8dxadh/s/live-480.m3u8
---https://acentotv01.streamprolive.com/hls/live.m3u8
+https://acentotv01.streamprolive.com/hls/live.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/vshjA7l.png" group-title="RD" tvg-id="0039",RD Coral
 --http://51.81.106.147:5080/LiveApp/streams/coral39.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ynEAZY4.png" group-title="RD" tvg-id="0040",RD Vozz
