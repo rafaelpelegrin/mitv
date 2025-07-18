@@ -250,7 +250,7 @@ https://streamtvs.tvcanalsur.com.do/hls/stream/index.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/b1rJHq6.png" group-title="RD" tvg-id="0123",RD Teleradio Norte
 --https://angelistic.live:3785/live/tvoficiallive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PNOPnYI.png" group-title="RD" tvg-id="0124",RD Yuna Vision
-https://ss9.domint.net:3036/yv_str/yunavision/.m3u8
+https://yunavision.com/stream1/index.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/ltuA3xh.png" group-title="RD" tvg-id="0125",RD Tele Oriental
 --https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l3Ft2D4.png" group-title="RD" tvg-id="0126",RD TeleCibao
