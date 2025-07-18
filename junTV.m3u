@@ -7,8 +7,8 @@ https://bloomberg-bloomberg-5-mx.samsung.wurl.tv/manifest/playlist.m3u8
 --https://5790d294af2dc.streamlock.net/8286/8286/playlist.m3u8
 #EXTINF:-1 group-title="RD" tvg-logo="https://i.imgur.com/gLYPLI4.png" tvg-id="0004",RD RTVD
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8?DVR
---#EXTINF:-1 tvg-logo="https://i.imgur.com/Jgwi3fP.png" group-title="RD" tvg-id="0005",RD Telemicro
---https://live2.telemicro.com.do/live/55/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jgwi3fP.png" group-title="RD" tvg-id="0005",RD Telemicro
+https://live20.bozztv.com/akamaissh101/ssh101/rctvhd21/chunks.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/gJ2myKE.png" group-title="RD" tvg-id="0006",RD Urbancrist2
 --https://ssh101-fl.bozztv.com/ssh101/urbancrist/tracks-v1a1/mono.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/ecrwWe2.png" group-title="RD" tvg-id="0007",RD Antena7
@@ -208,8 +208,8 @@ https://cnn.hostlagarto.com/ondatv/tracks-v1a1/mono.m3u8
 --https://vsrv2.az-streamingserver.com:3983/live/larutatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YGuYBvn.png" group-title="RD" tvg-id="0103",RD CitricoTV
 https://rdn.essastream.com:3996/live/citricotvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nHdn5gJ.png" group-title="RD" tvg-id="0104",RD TNI
-https://ss5.domint.net:3188/tni_str/tni51/playlist.m3u8
+--#EXTINF:-1 tvg-logo="https://i.imgur.com/nHdn5gJ.png" group-title="RD" tvg-id="0104",RD TNI
+--https://ss5.domint.net:3188/tni_str/tni51/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OzMEF4o.png" group-title="RD" tvg-id="0105",Su Mundo TV
 https://175036.global.ssl.fastly.net/6217e980d5bee0e090792fdf/live_75f5635097ba11ecb9f1255c8fe65a34/index.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/InRBlwU.png" group-title="RD" tvg-id="0106",RD Agenda56
@@ -302,7 +302,7 @@ https://ed18ov.live.opencaster.com/bznudxxdtppv/index.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/KjAPWxd.jpg" group-title="RD" tvg-id="0150",RD MorroTV
 --https://soportedvb.click:3257/live/morrotvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1E3ILQG.png" group-title="RD" tvg-id="0151",RD Xtremo Channel
-https://ss9.domint.net:3002/xtr_str/xtremochannel/playlist.m3u8
+https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/chunklist.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/ZVA03Uy.png" group-title="RD" tvg-id="0152",RD Telenord 8
 --https://rdn.essastream.com:3170/live/telenord8live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4PBIbpy.png" group-title="RD" tvg-id="0153",RD Telenord 10
@@ -357,7 +357,7 @@ https://vdo2.streamgato.us:3239/live/pulatvlive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Constanza TV
 https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD TVPlata
-https://ss9.domint.net:3032/tvp_str/tvp2111/chunklist_w648295456.m3u8
+https://ss2.tvrdomi.com:1936/tvplata/tvplata/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Chinola TV
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/chunklist_w2073743671.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD TV Cotui
