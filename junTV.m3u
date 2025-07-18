@@ -480,7 +480,7 @@ https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/chunklist_w997635
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/486gvVr.png" group-title="PELICULAS" tvg-id="" 251,Rakuten Comedia
 --https://rakuten-comedymovies-2-es.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XWw6suD.png" group-title="PELICULAS" tvg-id="0210",TVRetro Palmares
-https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/g4lRvgJ.png" group-title="PELICULAS" tvg-id="0213",CanelaTV
 --https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.desktop
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",FMTV
