@@ -160,7 +160,8 @@ https://59d39900ebfb8.streamlock.net/TV10SanJuan/TV10SanJuan/playlist.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/8J3oyfq.png" group-title="RD" tvg-id="0080",RD CTN horaXhora
 --https://59ef525c24caa.streamlock.net/ctn/ctn/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnXNKOv.png" group-title="RD" tvg-id="0081",RD Elias Piña TV
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/eptv/chunks.m3u8
+https://cloud2.streaminglivehd.com:1936/8078/8078/chunklist_w1875161922.m3u8
+--https://ssh101stream.ssh101.com/akamaissh101/ssh101/eptv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gKYHCaV.png"  group-title="RD" tvg-id="0082",RD CanangaTV
 https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vJx8ge5.png" group-title="RD" tvg-id="0083",RD Televisión del Este
