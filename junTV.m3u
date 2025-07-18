@@ -501,8 +501,8 @@ https://fl3.moveonjoy.com/FX_MOVIE/tracks-v1a1/mono.ts.m3u8
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/chunklist_w738892066.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",Tele Universal
 https://vdo2.streamgato.us:3466/live/teleuniversaldclive.m3u8
-#EXTINF:-1 tvg-id="AXNLatinAmerica.us@CentralAmerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="PELICULAS",AXN
-https://streamer1.nexgen.bz/AXN/index.m3u8
+--#EXTINF:-1 tvg-id="AXNLatinAmerica.us@CentralAmerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="PELICULAS",AXN
+--https://streamer1.nexgen.bz/AXN/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",Código TV
 https://vdo2.streamgato.us:3313/live/codigotvlive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",Cine Sony
@@ -519,6 +519,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285532-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ec065848-4bdc-45cb-ad2c-0ef96c23d424
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",FXX EAST
 https://fl3.moveonjoy.com/FXX/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",FXM EAST
+https://fl3.moveonjoy.com/FX_MOVIE/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",PARAMOUNT EAST
+https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/edOXXr0.png" group-title="DEPORTES" tvg-id="224",CDN Deportes
@@ -546,13 +550,15 @@ https://fl3.moveonjoy.com/MLB_NETWORK/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="",NASCAR
 https://aegis-cloudfront-1.tubi.video/4e6d2330-f93e-4068-b795-9f8585640b13/720p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="",NBA TV
-https://aegis-cloudfront-1.tubi.video/c987b155-8d7e-4307-bd24-720bb2843d42/playlist720p.m3u8
+https://fl3.moveonjoy.com/NBA_TV/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="", FITE 24/7
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263/variant/22099682.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="", ESPN NEWS
 https://fl3.moveonjoy.com/ESPN_NEWS/tracks-v1a1/mono.ts.m3u8
 --#EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="", ESPN DEPORTES
 --https://v1.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="", ESPN U
+https://fl3.moveonjoy.com/ESPN_U/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="", FUEL TV
 https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/eng_subs/chunklist_subtitles.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="", RACING AMERICA
@@ -569,8 +575,8 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_264.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="", Pac12insider
 https://pac12-samsungus.amagi.tv/playlist480_p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="", ESPN U
-https://fl3.moveonjoy.com/FXX/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES" tvg-id="",TENNIS CHAN
+https://tennischannel-int-samsunguk.amagi.tv/playlistWebVTT.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MGfdxjp.png" group-title="HISPANOS" tvg-id="233",Telemundo PR
