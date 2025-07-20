@@ -521,6 +521,8 @@ https://fl3.moveonjoy.com/FXX/tracks-v1a1/mono.ts.m3u8
 https://fl3.moveonjoy.com/FX_MOVIE/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",PARAMOUNT EAST
 https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS" tvg-id="",NEXT HD
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/edOXXr0.png" group-title="DEPORTES" tvg-id="224",CDN Deportes
