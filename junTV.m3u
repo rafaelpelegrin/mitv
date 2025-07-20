@@ -38,8 +38,8 @@ https://ss2.tvrdomi.com:1936/carivision/carivision/chunklist.m3u8
 https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/wUowj4i.png" group-title="RD" tvg-id="0020",RD Cielo
 --https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
---#EXTINF:-1 tvg-logo="https://i.imgur.com/ABfzzlG.png" group-title="RD" tvg-id="0021",RD Antena21
---https://d1p8txxph783az.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABfzzlG.png" group-title="RD" tvg-id="0021",RD Antena21
+https://cors-proxy.cooks.fyi/https://d3mhrz6vhsrmmq.cloudfront.net/original.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xiiSIjz.png" group-title="RD" tvg-id="0022",RD TVH
 https://vdo1.streamgato.us:3046/live/tvhigueycanal12live.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/xYt3m9D.png" group-title="RD" tvg-id="0023",RD Telefuturo
