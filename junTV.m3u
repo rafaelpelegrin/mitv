@@ -200,11 +200,11 @@ https://mlb.essastream.com:8081/telecanal12/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9nJavkM.png" group-title="RD" tvg-id="0099",RD Vision NDV
 https://soportedvb.click:3891/live/visionndvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oOoAwl4.png" group-title="RD" tvg-id="0100",RD San Isidro
-https://rdn.essastream.com:3160/live/sanisidrotvlive.m3u8
+https://mlb.essastream.com:8081/sanisidrotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uJwwQ03.png" group-title="RD" tvg-id="0101",RD Onda
 https://cnn.hostlagarto.com/ondatv/tracks-v1a1/mono.m3u8
---#EXTINF:-1 tvg-logo="https://i.imgur.com/Ny2bjvc.png" group-title="RD" tvg-id="0102",RD La Ruta
---https://vsrv2.az-streamingserver.com:3983/live/larutatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ny2bjvc.png" group-title="RD" tvg-id="0102",RD La Ruta
+https://streamunoapp.com:3983/live/larutatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YGuYBvn.png" group-title="RD" tvg-id="0103",RD CitricoTV
 https://rdn.essastream.com:3996/live/citricotvlive.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/nHdn5gJ.png" group-title="RD" tvg-id="0104",RD TNI
