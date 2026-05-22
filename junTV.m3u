@@ -295,7 +295,7 @@ https://livetv.305streamhd.com:3868/live/bagogeublive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XkTepcQ.png" group-title="RD" tvg-id="0147",RD CanaTV
 https://stream.hostuis.com:19360/canatvdigital/canatvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cFe3neu.png" group-title="RD" tvg-id="0148",RD Mia Vision
-https://rdn.essastream.com:3550/live/miavisiontvlive.m3u8
+https://edge.essastream.com/miavisiontv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZNA84ot.png" group-title="RD" tvg-id="0149",RD NitidaTV
 https://ed18ov.live.opencaster.com/bznudxxdtppv/index.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/KjAPWxd.jpg" group-title="RD" tvg-id="0150",RD MorroTV
@@ -305,9 +305,9 @@ https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/chunklist.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/ZVA03Uy.png" group-title="RD" tvg-id="0152",RD Telenord 8
 --https://rdn.essastream.com:3170/live/telenord8live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4PBIbpy.png" group-title="RD" tvg-id="0153",RD Telenord 10
-https://rdn.essastream.com:3676/live/telenord10live.m3u8
+https://fox.hostlagarto.com:8081/telenord10/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4PBIbpy.png" group-title="RD" tvg-id="0154",RD Telenord 12
-https://vdo1.streamgato.us:3345/live/telenord12live.m3u8
+https://fox.hostlagarto.com:8081/telenord12/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XiOGyqe.png" group-title="RD" tvg-id="0155",RD Ecovision
 https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/M67fhlc.png" group-title="RD" tvg-id="0156",RD Señales
@@ -333,7 +333,7 @@ https://tv.wracanal10.com:3776/live/luzdivinatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/raH4EBY.png" group-title="RD" tvg-id="0166",RD PuntoTV
 https://vdo1.streamgato.us:3599/live/puntotvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fBEJngF.png" group-title="RD" tvg-id="0167",RD Punta Cana TV
-https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
+https://fox.hostlagarto.com:8081/puntacanatv/index.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/TCBGRkV.png" group-title="RD" tvg-id="0168",RD CelestialTV
 --https://5790d294af2dc.streamlock.net:443/celestial/celestial/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gPN8y6h.png" group-title="RD" tvg-id="0169",RD Telever
