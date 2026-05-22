@@ -315,15 +315,15 @@ https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/TXjWNDy.png" group-title="RD" tvg-id="0157",RD Ruta66
 --https://cnn.livestreaminggroup.info:3796/live/ruta66tvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3zV7rdt.png" group-title="RD" tvg-id="0158",RD Telecanal28
-https://vdo2.streamgato.us:3841/live/telecanal28tvlive.m3u8
+https://mlb.essastream.com:8081/telecanal28/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/15UIOui.png" group-title="RD" tvg-id="0159",RD P3 RADIO TV
 https://5790d294af2dc.streamlock.net/8042/8042/playlist.m3u8
---#EXTINF:-1 tvg-logo="https://i.imgur.com/varhs9Y.png" group-title="RD" tvg-id="0160",RD Makina Visión
---https://cdn5.streamgato.us/p/3059/live/maquinatvlive.m3u8
---#EXTINF:-1 group-title="RD" tvg-logo="https://i.imgur.com/Bc35jc1.png" tvg-id="0161",RD Tele Caribe
---https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/varhs9Y.png" group-title="RD" tvg-id="0160",RD Makina Visión
+https://vdopanel.jlahozconsulting.com:3303/hybrid/play.m3u8
+#EXTINF:-1 group-title="RD" tvg-logo="https://i.imgur.com/Bc35jc1.png" tvg-id="0161",RD Tele Caribe
+https://liveingesta118.cdnmedia.tv/telecaribetvlive/rtmp01-1500/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JRYIdqf.jpg" group-title="RD" tvg-id="0162",RD TLSD
-https://vdopanel.jlahozconsulting.com/p/3668/live/santodomingolive.m3u8
+https://teleon.tv/stream/cG5wODQ4MzU4NXBucDg0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/84Ds9kt.png" group-title="RD" tvg-id="0163",RD TV Quisqueya
 https://protvradiostream.com:1936/rtvd17/ngrp:rtvd17_all/chunklist_w226442325_b1163840.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AwBW5s1.png" group-title="RD" tvg-id="0164",RD Luz Divina TV
@@ -331,7 +331,7 @@ https://tv.wracanal10.com:3776/live/luzdivinatvlive.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/NurHT5q.png" group-title="RD" tvg-id="0165",RD TRA
 --https://ssh101stream.ssh101.com/akamaissh101/ssh101/rctvhdtra/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/raH4EBY.png" group-title="RD" tvg-id="0166",RD PuntoTV
-https://vdo1.streamgato.us:3599/live/puntotvlive.m3u8
+https://fox.hostlagarto.com:8081/puntotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fBEJngF.png" group-title="RD" tvg-id="0167",RD Punta Cana TV
 https://fox.hostlagarto.com:8081/puntacanatv/index.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/TCBGRkV.png" group-title="RD" tvg-id="0168",RD CelestialTV
