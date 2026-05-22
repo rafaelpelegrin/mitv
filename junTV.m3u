@@ -206,26 +206,25 @@ https://cnn.hostlagarto.com/ondatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ny2bjvc.png" group-title="RD" tvg-id="0102",RD La Ruta
 https://streamunoapp.com:3983/live/larutatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YGuYBvn.png" group-title="RD" tvg-id="0103",RD CitricoTV
-https://rdn.essastream.com:3996/live/citricotvlive.m3u8
+https://edge.essastream.com/citricotv/index.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/nHdn5gJ.png" group-title="RD" tvg-id="0104",RD TNI
 --https://ss5.domint.net:3188/tni_str/tni51/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OzMEF4o.png" group-title="RD" tvg-id="0105",Su Mundo TV
-https://175036.global.ssl.fastly.net/6217e980d5bee0e090792fdf/live_75f5635097ba11ecb9f1255c8fe65a34/index.m3u8
+https://appapi.sumundotv.com/api/stream-proxy/4pf8yy3WF1xp1_tQ6yUYRIsbwyLc3qxDRcZAY_NLNDs/index.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/InRBlwU.png" group-title="RD" tvg-id="0106",RD Agenda56
 --https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cRbV9X3.png" group-title="RD" tvg-id="0107",RD GHTV
-https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
+https://fox.hostlagarto.com:8081/ghtelevision/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D8RbUGm.png" group-title="RD" tvg-id="0108",RD Haina Vision
 https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yLLQTWa.jpg" group-title="RD" tvg-id="0109",RD CibaeñaTV
 https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ATsXdO.png" group-title="RD" tvg-id="0110",RD MaimonTV
-https://maimontv.com/stream3/index.m3u8
---https://ss9.domint.net:3038/mtvd_str/miamontv/playlist.m3u8
+https://tele-stream.telecasa.net/live/st3/maimontv-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/laFJQxs.png" group-title="RD" tvg-id="0111",RD Canalda
 https://canalda.rgradio.net:3084/live/canaldalive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nCoytgT.png" group-title="RD" tvg-id="0112",RD Canal HTV
-https://vdo1.streamgato.us:3833/live/canalhtvlivelive.m3u8
+https://fox.hostlagarto.com:8081/canalhtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4w9RA9D.png" group-title="RD" tvg-id="0113",RD Vallevision
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8iev8u5.png" group-title="RD" tvg-id="0114",RD Hispanic
@@ -236,14 +235,14 @@ https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
 --https://ss3.domint.net:3156/ltv_str/latinatvint/playlist.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/VRPYIsP.png" group-title="RD" tvg-id="0117",RD ReporteroTV
 --https://rdn.essastream.com:3832/live/reporterotvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kTPmQAx.jpg" group-title="RD" tvg-id="0118",RD Marka TV
-https://5790d294af2dc.streamlock.net:443/markatv/markatv/playlist.m3u8
+--#EXTINF:-1 tvg-logo="https://i.imgur.com/kTPmQAx.jpg" group-title="RD" tvg-id="0118",RD Marka TV
+--https://5790d294af2dc.streamlock.net:443/markatv/markatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SKDwptY.png" group-title="RD" tvg-id="0119",RD HMTV
-https://cnn.essastream.com:3091/live/hmtvlive.m3u8
+https://fox.hostlagarto.com:8081/hmtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3gn1RgD.png" group-title="RD" tvg-id="0120",RD La mia
 https://ss5.domint.net:3184/mia_str/lamiatv/playlist.m3u8
---#EXTINF:-1 tvg-logo="https://i.imgur.com/NoRvqPd.png" group-title="RD" tvg-id="0121",RD PrensaTV
---https://cdn5.streamgato.us:3300/live/prensatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NoRvqPd.png" group-title="RD" tvg-id="0121",RD PrensaTV
+https://vdopanel.jlahozconsulting.com:3878/live/prensatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rufMCFJ.jpg" group-title="RD" tvg-id="0122",RD SurTV
 https://streamtvs.tvcanalsur.com.do/hls/stream/index.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/b1rJHq6.png" group-title="RD" tvg-id="0123",RD Teleradio Norte
