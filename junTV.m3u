@@ -338,21 +338,21 @@ https://fox.hostlagarto.com:8081/puntacanatv/index.m3u8
 --https://5790d294af2dc.streamlock.net:443/celestial/celestial/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gPN8y6h.png" group-title="RD" tvg-id="0169",RD Telever
 https://soportedvb.click:3413/live/televerlive.m3u8
---#EXTINF:-1 tvg-logo="https://i.imgur.com/Go9gIEQ.jpg" group-title="RD" tvg-id="0170",RD RDN
---https://cm.hostlagarto.com:4445/rdn/rdn.myStream/playlist.m3u8
---#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="0171",RD ExitosaTV
---https://5790d294af2dc.streamlock.net/exitosatv/exitosatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Go9gIEQ.jpg" group-title="RD" tvg-id="0170",RD RDN
+https://mlb.essastream.com:8081/rdntv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="0171",RD ExitosaTV
+https://vsrv2.az-streamingserver.com:3092/live/exitosatvlive.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/Bdovihp.jpeg" group-title="RD" tvg-id="0172",TV Avivamiento
 --https://glb.bozztv.com/glb/ssh101/avivamientotv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="0173",RD Ame 47
-https://ss2.tvrdomi.com:1936/ame47/ame47/playlist.m3u8
+https://ss2.tvrdomi.com:1936/ame47/ame47/chunklist.m3u8
 --https://ss9.domint.net:3040/ame_str/amecanal47/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD TNI
-https://live2.telemicro.com.do/web/telecentro/chunks.m3u8
+--#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD TNI
+--https://live2.telemicro.com.do/web/telecentro/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Canal del Sol
-https://5790d294af2dc.streamlock.net/sol65/sol65/chunklist_w301668216.m3u8
+https://stream.canaldelsol.com/sol26/live_720.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id=",Pula TV
-https://vdo2.streamgato.us:3239/live/pulatvlive.m3u8
+https://fox.hostlagarto.com:8081/pulatv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Constanza TV
 https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD TVPlata
@@ -364,7 +364,7 @@ https://cloudflare.streamgato.us:3490/live/cotuitvlive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD RDN
 https://vdo2.streamgato.us:3278/live/rdntvlive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Teletur
-https://cloudflare.streamgato.us:3227/live/teleturtvlive.m3u8
+https://cdn4.hostlagarto.com:8081/static/teletur/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Quisqueya TV
 https://protvradiostream.com:1936/rtvd17/ngrp:rtvd17_all/chunklist_w1293948347_b1163840.m3u8
 --#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Super Canal
@@ -372,11 +372,11 @@ https://protvradiostream.com:1936/rtvd17/ngrp:rtvd17_all/chunklist_w1293948347_b
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Claro Televisión Dominicana
 https://streamunoapp.com:3960/live/claroteledomlive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD DeltaTV
-https://rdn.essastream.com:3949/live/deltatv50live.m3u8
+https://fox.hostlagarto.com:8081/deltatv50/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD GH Televisión
-https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
+https://fox.hostlagarto.com:8081/ghtelevision/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD La Caleta TV
-https://rdn.essastream.com:3168/live/lacaletatvlive.m3u8
+https://edge.essastream.com/lacaletatv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD O2XTV
 https://streamunoapp.com:3520/live/oxitvcanal36live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Siembra TV
