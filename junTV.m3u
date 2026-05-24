@@ -352,7 +352,8 @@ https://ss2.tvrdomi.com:1936/ame47/ame47/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Canal del Sol
 https://stream.canaldelsol.com/sol26/live_720.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id=",Pula TV
-https://fox.hostlagarto.com:8081/pulatv/index.m3u8
+https://vdo2.streamgato.us:3239/live/pulatvlive.m3u8
+--https://fox.hostlagarto.com:8081/pulatv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Constanza TV
 https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD TVPlata
