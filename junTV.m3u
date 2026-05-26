@@ -109,7 +109,7 @@ https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
 --#EXTINF:-1 tvg-logo="https://i.imgur.com/c9rMZ2x.png" group-title="RD" tvg-id="0055",RD SuperTV55
 --https://ss2.domint.net:3236/stv_str/supertv55/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmkEEXC.png" group-title="RD" tvg-id="0056",RD Canal 56
-https://vdopanel.jlahozconsulting.com/p/3124/hybrid/play.m3u8
+https://canal.gitelevisionserver.com/live/DIEEFIh506fL8huspvl0f0c2PZF3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EjzsVG4.png" group-title="RD" tvg-id="0057",RD Telecontacto
 https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nLBCWZr.png" group-title="RD" tvg-id="0058",RD Valle Nuevo TV
